@@ -1,0 +1,15 @@
+{
+  "message": "succes",
+  "data": {
+    "role": "admin",
+    "token": [
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJfaWQiOiI2MDA2YWJmZGRmYzY4MzFhZTA0YWJiYmQiLCJmdWxsX25hbWUiOiJCYWNodGlhciBGaXJkYXVzIiwiZW1haWwiOiJybHVjaXZlckBhb2wuY29tIiwiY3VzdG9tZXJfaWQiOjMsImlhdCI6MTYxMTA3MjAzMX0.nlKMJxOqMsetR-ZbP9IcDZghr4-wj2PvJEhg4UTAxXc"
+    ],
+    "_id": "6006abfddfc6831ae04abbbd",
+    "full_name": "Bachtiar Firdaus",
+    "email": "rluciver@aol.com",
+    "password": "$2b$10$RBkLNvFIfy.nyxw3gC2zFecHlbJE9U5eZghXUslKKC/kc45qDtsWi",
+    "customer_id": 3,
+    "__v": 0
+  }
+}
