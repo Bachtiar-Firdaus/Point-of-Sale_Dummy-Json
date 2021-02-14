@@ -1,0 +1,11 @@
+{
+  "message": "logged in successfully",
+  "user": {
+    "role": "user",
+    "_id": "602965aee17af612182ccc57",
+    "full_name": "Bachtiar Firdaus",
+    "email": "asasa@aol.com",
+    "customer_id": 12
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsIl9pZCI6IjYwMjk2NWFlZTE3YWY2MTIxODJjY2M1NyIsImZ1bGxfbmFtZSI6IkJhY2h0aWFyIEZpcmRhdXMiLCJlbWFpbCI6ImFzYXNhQGFvbC5jb20iLCJjdXN0b21lcl9pZCI6MTIsImlhdCI6MTYxMzMyNzA4MH0.6Q69oiDQldPn3oQBGM-pUIMice0Kn8-2R4tQEVMJ9ls"
+}
