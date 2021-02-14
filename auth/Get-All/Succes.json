@@ -1,0 +1,54 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "role": "admin",
+      "token": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJfaWQiOiI2MDA2YWJmZGRmYzY4MzFhZTA0YWJiYmQiLCJmdWxsX25hbWUiOiJCYWNodGlhciBGaXJkYXVzIiwiZW1haWwiOiJybHVjaXZlckBhb2wuY29tIiwiY3VzdG9tZXJfaWQiOjMsImlhdCI6MTYxMTA3MjAzMX0.nlKMJxOqMsetR-ZbP9IcDZghr4-wj2PvJEhg4UTAxXc"
+      ],
+      "_id": "6006abfddfc6831ae04abbbd",
+      "full_name": "Bachtiar Firdaus",
+      "email": "rluciver@aol.com",
+      "password": "$2b$10$RBkLNvFIfy.nyxw3gC2zFecHlbJE9U5eZghXUslKKC/kc45qDtsWi",
+      "customer_id": 3,
+      "__v": 0
+    },
+    {
+      "role": "admin",
+      "token": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsIl9pZCI6IjYwMDcwNDg1OTllN2NlMzY2NDA3MmVhZSIsImZ1bGxfbmFtZSI6IlJhaG1hdCBIaWRheWF0dWxsYWgiLCJlbWFpbCI6ImRheWF0QGFvbC5jb20iLCJjdXN0b21lcl9pZCI6NiwiaWF0IjoxNjExMzMzNjA5fQ.fi8OuB_Qu9C8KiGrwWt58A5YjQ1z57ICMrNYmJOsBzU"
+      ],
+      "_id": "6007048599e7ce3664072eae",
+      "full_name": "daus",
+      "email": "daus@daus.com",
+      "password": "$2b$10$uHPg5bSbaWjqJCNUX8hmBOr1G2tTH4P93wEl/YYijZjhqniZi.J9q",
+      "customer_id": 6,
+      "__v": 0
+    },
+    {
+      "role": "user",
+      "token": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsIl9pZCI6IjYwMGViNDg2NWVmYWVlMTdjMDA1MjQ0NiIsImZ1bGxfbmFtZSI6IlJhaG1hdCBIaWRheWF0dWxsYWgiLCJlbWFpbCI6ImRheWF0QGFvbC5jb20iLCJjdXN0b21lcl9pZCI6NywiaWF0IjoxNjExNTc2NDY3fQ.jCFPH3DFTKKiPsAXspAx96cHiV7aPlihPN0v8EdrPEY"
+      ],
+      "_id": "600eb4865efaee17c0052446",
+      "full_name": "Rahmat Hidayatullah",
+      "email": "dayat@aol.com",
+      "password": "$2b$10$TjKqVLwUKptmjY82nyCDyuvPgJ6C1Vfa7R6ijbBUUii96vdUNuozy",
+      "customer_id": 7,
+      "__v": 0
+    },
+    {
+      "role": "user",
+      "token": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsIl9pZCI6IjYwMGZjOTg3ZjEzNjE2MTdjNGUwNjUwMSIsImZ1bGxfbmFtZSI6IlJhaG1hdCBIaWRheWF0dWxsYWgiLCJlbWFpbCI6ImVsZmluQGFvbC5jb20iLCJjdXN0b21lcl9pZCI6OCwiaWF0IjoxNjExNjQ3MzgyfQ.9uVnGpUv16Nb7rH6rCheftbld9ikpELGhMUC8BTGC-8"
+      ],
+      "_id": "600fc987f1361617c4e06501",
+      "full_name": "Rahmat Hidayatullah",
+      "email": "elfin@aol.com",
+      "password": "$2b$10$YIOcLJBwLOiBRkcuxn20R.Aq1OuRSkCH5.fbtd2bwGLlEcC.16OF2",
+      "customer_id": 8,
+      "__v": 0
+    }
+  ],
+  "count": 4
+}
