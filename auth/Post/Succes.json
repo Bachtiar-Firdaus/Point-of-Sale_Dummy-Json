@@ -1,0 +1,13 @@
+{
+  "message": "succes",
+  "data": {
+    "role": "user",
+    "token": [],
+    "_id": "6006abfddfc6831ae04abbbd",
+    "full_name": "Bachtiar Firdaus",
+    "email": "rluciver@aol.com",
+    "password": "$2b$10$RBkLNvFIfy.nyxw3gC2zFecHlbJE9U5eZghXUslKKC/kc45qDtsWi",
+    "customer_id": 3,
+    "__v": 0
+  }
+}
