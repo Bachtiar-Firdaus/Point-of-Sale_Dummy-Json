@@ -1,0 +1,30 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "role": "admin",
+      "token": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJfaWQiOiI2MDA2YWJmZGRmYzY4MzFhZTA0YWJiYmQiLCJmdWxsX25hbWUiOiJCYWNodGlhciBGaXJkYXVzIiwiZW1haWwiOiJybHVjaXZlckBhb2wuY29tIiwiY3VzdG9tZXJfaWQiOjMsImlhdCI6MTYxMTA3MjAzMX0.nlKMJxOqMsetR-ZbP9IcDZghr4-wj2PvJEhg4UTAxXc"
+      ],
+      "_id": "6006abfddfc6831ae04abbbd",
+      "full_name": "Bachtiar Firdaus",
+      "email": "rluciver@aol.com",
+      "password": "$2b$10$RBkLNvFIfy.nyxw3gC2zFecHlbJE9U5eZghXUslKKC/kc45qDtsWi",
+      "customer_id": 3,
+      "__v": 0
+    },
+    {
+      "role": "admin",
+      "token": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsIl9pZCI6IjYwMDcwNDg1OTllN2NlMzY2NDA3MmVhZSIsImZ1bGxfbmFtZSI6IlJhaG1hdCBIaWRheWF0dWxsYWgiLCJlbWFpbCI6ImRheWF0QGFvbC5jb20iLCJjdXN0b21lcl9pZCI6NiwiaWF0IjoxNjExMzMzNjA5fQ.fi8OuB_Qu9C8KiGrwWt58A5YjQ1z57ICMrNYmJOsBzU"
+      ],
+      "_id": "6007048599e7ce3664072eae",
+      "full_name": "daus",
+      "email": "daus@daus.com",
+      "password": "$2b$10$uHPg5bSbaWjqJCNUX8hmBOr1G2tTH4P93wEl/YYijZjhqniZi.J9q",
+      "customer_id": 6,
+      "__v": 0
+    }
+  ],
+  "count": 2
+}
