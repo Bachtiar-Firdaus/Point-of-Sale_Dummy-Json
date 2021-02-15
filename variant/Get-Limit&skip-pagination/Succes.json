@@ -1,0 +1,33 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "_id": "600b352159630e1f54ee8a8c",
+      "name": "Ukuran",
+      "option": [
+        {
+          "_id": "600b352159630e1f54ee8a8d",
+          "name": "XL",
+          "stock": -26
+        },
+        {
+          "_id": "600b352159630e1f54ee8a8e",
+          "name": "L",
+          "stock": -28
+        },
+        {
+          "_id": "600b352159630e1f54ee8a8f",
+          "name": "M",
+          "stock": -28
+        },
+        {
+          "_id": "600b352159630e1f54ee8a90",
+          "name": "S",
+          "stock": -5
+        }
+      ],
+      "__v": 0
+    }
+  ],
+  "count": 2
+}
