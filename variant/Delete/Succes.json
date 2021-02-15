@@ -1,0 +1,20 @@
+{
+  "message": "succes",
+  "data": {
+    "_id": "602a3f5e8466932bf0c0d88b",
+    "name": "Model",
+    "option": [
+      {
+        "_id": "602a3f5e8466932bf0c0d88c",
+        "name": "Panjang",
+        "stock": 10
+      },
+      {
+        "_id": "602a3f5e8466932bf0c0d88d",
+        "name": "Pendek",
+        "stock": 5
+      }
+    ],
+    "__v": 0
+  }
+}
