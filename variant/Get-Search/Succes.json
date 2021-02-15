@@ -1,0 +1,33 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "_id": "600b357d59630e1f54ee8a91",
+      "name": "Warna",
+      "option": [
+        {
+          "_id": "600b357d59630e1f54ee8a92",
+          "name": "Merah",
+          "stock": -14
+        },
+        {
+          "_id": "600b357d59630e1f54ee8a93",
+          "name": "Hijau",
+          "stock": -34
+        },
+        {
+          "_id": "600b357d59630e1f54ee8a94",
+          "name": "Kuning",
+          "stock": 10
+        },
+        {
+          "_id": "600b357d59630e1f54ee8a95",
+          "name": "Biru",
+          "stock": 10
+        }
+      ],
+      "__v": 0
+    }
+  ],
+  "count": 1
+}
