@@ -1,0 +1,16 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "_id": "6009a4eb24a15b0cfcd1a1af",
+      "name": "Outfit",
+      "__v": 0
+    },
+    {
+      "_id": "600b361959630e1f54ee8a96",
+      "name": "Fashions",
+      "__v": 0
+    }
+  ],
+  "count": 2
+}
