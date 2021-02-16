@@ -1,0 +1,18 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "type": "%",
+      "value": 20,
+      "status": "y",
+      "product": [],
+      "_id": "600ef5940d4b3d0ab47430aa",
+      "name": "Discount Ahir Tahun",
+      "date": "2021-01-30T17:00:00.000Z",
+      "createdAt": "2021-01-25T16:45:08.576Z",
+      "updatedAt": "2021-01-25T16:45:08.576Z",
+      "__v": 0
+    }
+  ],
+  "count": 2
+}
