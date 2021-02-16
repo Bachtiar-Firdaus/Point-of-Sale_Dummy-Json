@@ -1,0 +1,7 @@
+{
+  "name": "Model",
+  "option": [
+    { "name": "Panjang", "stock": 10 },
+    { "name": "Pendek", "stock": 5 }
+  ]
+}
