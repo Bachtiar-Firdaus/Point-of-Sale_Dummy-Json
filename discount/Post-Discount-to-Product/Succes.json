@@ -1,0 +1,20 @@
+{
+  "message": "succes",
+  "data": {
+    "type": "%",
+    "value": 30,
+    "status": "y",
+    "product": [
+      "600478addce2d122c8efb5e5",
+      "60072b523a0b75361c9dba40",
+      "600b3d405c9dfc18543ab039",
+      "600b3e337c24742ed4a04962"
+    ],
+    "_id": "600eb811466d8d3580b53325",
+    "name": "Discount Hari Besar",
+    "date": "2021-01-30T17:00:00.000Z",
+    "createdAt": "2021-01-25T12:22:42.008Z",
+    "updatedAt": "2021-02-16T16:30:17.488Z",
+    "__v": 0
+  }
+}
