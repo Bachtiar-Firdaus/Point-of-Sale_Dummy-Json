@@ -1,0 +1,64 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "price": 1500000,
+      "_id": "600b3e337c24742ed4a04962",
+      "variant": {
+        "_id": "600b352159630e1f54ee8a8c",
+        "name": "Ukuran",
+        "option": [
+          {
+            "_id": "600b352159630e1f54ee8a8d",
+            "name": "XL",
+            "stock": -26
+          },
+          {
+            "_id": "600b352159630e1f54ee8a8e",
+            "name": "L",
+            "stock": -28
+          },
+          {
+            "_id": "600b352159630e1f54ee8a8f",
+            "name": "M",
+            "stock": -28
+          },
+          {
+            "_id": "600b352159630e1f54ee8a90",
+            "name": "S",
+            "stock": -5
+          }
+        ],
+        "__v": 0
+      },
+      "name": "Kaca Mata Emi",
+      "category": {
+        "_id": "6009a4eb24a15b0cfcd1a1af",
+        "name": "Outfit",
+        "__v": 0
+      },
+      "image_url": "cfadd84ea7e6bde2438172aae8073a54.jpg",
+      "createdAt": "2021-01-22T21:05:55.239Z",
+      "updatedAt": "2021-02-16T07:25:20.634Z",
+      "__v": 0,
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "status": "y",
+        "product": [
+          "600478addce2d122c8efb5e5",
+          "60072b523a0b75361c9dba40",
+          "600b3d405c9dfc18543ab039",
+          "600b3e337c24742ed4a04962"
+        ],
+        "_id": "600eb811466d8d3580b53325",
+        "name": "Discount Hari Besar",
+        "date": "2021-01-30T17:00:00.000Z",
+        "createdAt": "2021-01-25T12:22:42.008Z",
+        "updatedAt": "2021-02-16T07:25:20.639Z",
+        "__v": 0
+      }
+    }
+  ],
+  "count": 1
+}
