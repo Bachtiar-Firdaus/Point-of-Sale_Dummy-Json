@@ -1,0 +1,46 @@
+{
+  "error": 1,
+  "message": "Product validation failed: category: Cast to ObjectId failed for value \"\" at path \"category\", variant: Cast to ObjectId failed for value \"\" at path \"variant\", name: Nama harus diisi, description: Deskripsi harus diisi",
+  "fields": {
+    "category": {
+      "stringValue": "\"\"",
+      "kind": "ObjectId",
+      "value": "",
+      "path": "category",
+      "reason": {}
+    },
+    "variant": {
+      "stringValue": "\"\"",
+      "kind": "ObjectId",
+      "value": "",
+      "path": "variant",
+      "reason": {}
+    },
+    "name": {
+      "name": "ValidatorError",
+      "message": "Nama harus diisi",
+      "properties": {
+        "message": "Nama harus diisi",
+        "type": "required",
+        "path": "name",
+        "value": ""
+      },
+      "kind": "required",
+      "path": "name",
+      "value": ""
+    },
+    "description": {
+      "name": "ValidatorError",
+      "message": "Deskripsi harus diisi",
+      "properties": {
+        "message": "Deskripsi harus diisi",
+        "type": "required",
+        "path": "description",
+        "value": ""
+      },
+      "kind": "required",
+      "path": "description",
+      "value": ""
+    }
+  }
+}
