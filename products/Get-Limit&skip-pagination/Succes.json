@@ -1,0 +1,116 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "price": 200000,
+      "_id": "600478addce2d122c8efb5e5",
+      "name": "Kaca Mata",
+      "image_url": "5bf6fc248d9ef1b7087d5e3a5f6a021d.jpg",
+      "createdAt": "2021-01-17T17:49:33.466Z",
+      "updatedAt": "2021-01-25T17:25:27.214Z",
+      "__v": 0,
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "status": "y",
+        "product": ["600478addce2d122c8efb5e5", "60072b523a0b75361c9dba40"],
+        "_id": "600eb811466d8d3580b53325",
+        "name": "Discount Hari Besar",
+        "date": "2021-01-30T17:00:00.000Z",
+        "createdAt": "2021-01-25T12:22:42.008Z",
+        "updatedAt": "2021-01-25T17:25:27.220Z",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "600b352159630e1f54ee8a8c",
+        "name": "Ukuran",
+        "option": [
+          {
+            "_id": "600b352159630e1f54ee8a8d",
+            "name": "XL",
+            "stock": -26
+          },
+          {
+            "_id": "600b352159630e1f54ee8a8e",
+            "name": "L",
+            "stock": -28
+          },
+          {
+            "_id": "600b352159630e1f54ee8a8f",
+            "name": "M",
+            "stock": -28
+          },
+          {
+            "_id": "600b352159630e1f54ee8a90",
+            "name": "S",
+            "stock": -5
+          }
+        ],
+        "__v": 0
+      }
+    },
+    {
+      "price": 999999,
+      "_id": "60072b523a0b75361c9dba40",
+      "name": "Test Destroy",
+      "image_url": "c1a3902a405babdc626adea86ba5e5d7.jpg",
+      "createdAt": "2021-01-19T18:56:18.662Z",
+      "updatedAt": "2021-01-25T17:25:27.214Z",
+      "__v": 0,
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "status": "y",
+        "product": ["600478addce2d122c8efb5e5", "60072b523a0b75361c9dba40"],
+        "_id": "600eb811466d8d3580b53325",
+        "name": "Discount Hari Besar",
+        "date": "2021-01-30T17:00:00.000Z",
+        "createdAt": "2021-01-25T12:22:42.008Z",
+        "updatedAt": "2021-01-25T17:25:27.220Z",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "600b357d59630e1f54ee8a91",
+        "name": "Warna",
+        "option": [
+          {
+            "_id": "600b357d59630e1f54ee8a92",
+            "name": "Merah",
+            "stock": -14
+          },
+          {
+            "_id": "600b357d59630e1f54ee8a93",
+            "name": "Hijau",
+            "stock": -34
+          },
+          {
+            "_id": "600b357d59630e1f54ee8a94",
+            "name": "Kuning",
+            "stock": 10
+          },
+          {
+            "_id": "600b357d59630e1f54ee8a95",
+            "name": "Biru",
+            "stock": 10
+          }
+        ],
+        "__v": 0
+      }
+    },
+    {
+      "price": 999999,
+      "_id": "6009a4f724a15b0cfcd1a1b0",
+      "name": "Test Destroy",
+      "category": {
+        "_id": "6009a4eb24a15b0cfcd1a1af",
+        "name": "Outfit",
+        "__v": 0
+      },
+      "image_url": "ea906eb5736d72c745beb0c5593fe2e2.jpg",
+      "createdAt": "2021-01-21T15:59:51.362Z",
+      "updatedAt": "2021-01-21T15:59:51.362Z",
+      "__v": 0
+    }
+  ],
+  "count": 11
+}
