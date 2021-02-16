@@ -1,0 +1,44 @@
+{
+  "message": "succes",
+  "data": {
+    "price": 120000,
+    "_id": "602b6eeaa3e9dd093847e66f",
+    "name": "Handler Baju",
+    "category": {
+      "_id": "6009a4eb24a15b0cfcd1a1af",
+      "name": "Outfit",
+      "__v": 0
+    },
+    "variant": {
+      "_id": "600b352159630e1f54ee8a8c",
+      "name": "Ukuran",
+      "option": [
+        {
+          "_id": "600b352159630e1f54ee8a8d",
+          "name": "XL",
+          "stock": -26
+        },
+        {
+          "_id": "600b352159630e1f54ee8a8e",
+          "name": "L",
+          "stock": -28
+        },
+        {
+          "_id": "600b352159630e1f54ee8a8f",
+          "name": "M",
+          "stock": -28
+        },
+        {
+          "_id": "600b352159630e1f54ee8a90",
+          "name": "S",
+          "stock": -5
+        }
+      ],
+      "__v": 0
+    },
+    "description": "handler",
+    "createdAt": "2021-02-16T07:06:18.035Z",
+    "updatedAt": "2021-02-16T07:06:18.035Z",
+    "__v": 0
+  }
+}
