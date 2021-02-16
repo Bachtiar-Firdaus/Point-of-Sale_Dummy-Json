@@ -1,0 +1,15 @@
+{
+  "message": "succes",
+  "data": {
+    "type": "%",
+    "value": 20,
+    "status": "y",
+    "product": [],
+    "_id": "602bc0e035e6db2740661646",
+    "name": "Discount Valentine",
+    "date": "2021-01-30T17:00:00.000Z",
+    "createdAt": "2021-02-16T12:56:00.557Z",
+    "updatedAt": "2021-02-16T12:56:00.557Z",
+    "__v": 0
+  }
+}
