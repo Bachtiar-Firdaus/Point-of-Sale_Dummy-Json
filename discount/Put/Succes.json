@@ -1,0 +1,15 @@
+{
+  "message": "succes",
+  "data": {
+    "type": "%",
+    "value": 30,
+    "status": "y",
+    "product": [],
+    "_id": "602bc46f35e6db2740661647",
+    "name": "Discount Ulang Tahun",
+    "date": "2021-01-30T17:00:00.000Z",
+    "createdAt": "2021-02-16T13:11:11.449Z",
+    "updatedAt": "2021-02-16T16:36:00.683Z",
+    "__v": 0
+  }
+}
