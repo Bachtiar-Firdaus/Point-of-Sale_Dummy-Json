@@ -1,0 +1,17 @@
+{
+  "message": "succes",
+  "data": {
+    "orders": [
+      "600478addce2d122c8efb5e5",
+      "600478addce2d122c8efb5e5",
+      "600478addce2d122c8efb5e5"
+    ],
+    "_id": "602cc24bd4f641220cd2778b",
+    "nama_lengkap": "Bachtiar Firdaus",
+    "amount": 1680000,
+    "email": "rluciver@aol.com",
+    "user": "600eb4865efaee17c0052446",
+    "order_number": 324,
+    "__v": 0
+  }
+}
