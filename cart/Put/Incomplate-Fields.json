@@ -1,33 +1,39 @@
 {
   "error": [
     {
+      "value": "",
       "msg": "Invalid value",
-      "param": "_id",
+      "param": "items[0]._id",
       "location": "body"
     },
     {
+      "value": "",
       "msg": "Invalid value",
-      "param": "qty",
+      "param": "items[0].qty",
       "location": "body"
     },
     {
+      "value": "",
       "msg": "Invalid value",
-      "param": "idVariantOption",
+      "param": "items[0].idVariantOption",
       "location": "body"
     },
     {
+      "value": "",
       "msg": "Invalid value",
-      "param": "variantName",
+      "param": "items[0].variantName",
       "location": "body"
     },
     {
+      "value": "",
       "msg": "Invalid value",
-      "param": "variantOption",
+      "param": "items[0].variantOption",
       "location": "body"
     },
     {
+      "value": "",
       "msg": "Invalid value",
-      "param": "variantStock",
+      "param": "items[0].variantStock",
       "location": "body"
     }
   ]
