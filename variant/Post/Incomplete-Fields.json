@@ -1,32 +1,22 @@
 {
-  "error": 1,
-  "message": "Variant validation failed: name: Nama Variant Wajib Di isi, option.0.name: Nama Options Variant Wajib Di isi",
-  "fields": {
-    "name": {
-      "name": "ValidatorError",
-      "message": "Nama Variant Wajib Di isi",
-      "properties": {
-        "message": "Nama Variant Wajib Di isi",
-        "type": "required",
-        "path": "name",
-        "value": ""
-      },
-      "kind": "required",
-      "path": "name",
-      "value": ""
+  "error": [
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "name",
+      "location": "body"
     },
-    "option.0.name": {
-      "name": "ValidatorError",
-      "message": "Nama Options Variant Wajib Di isi",
-      "properties": {
-        "message": "Nama Options Variant Wajib Di isi",
-        "type": "required",
-        "path": "name",
-        "value": ""
-      },
-      "kind": "required",
-      "path": "name",
-      "value": ""
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "option[0].name",
+      "location": "body"
+    },
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "option[0].stock",
+      "location": "body"
     }
-  }
+  ]
 }
