@@ -1,39 +1,22 @@
 {
-  "error": 1,
-  "message": "User validation failed: password: password wajib di isi, email: email wajib di isi, full_name: Nama Harus di isi",
-  "fields": {
-    "password": {
-      "name": "ValidatorError",
-      "message": "password wajib di isi",
-      "properties": {
-        "message": "password wajib di isi",
-        "type": "required",
-        "path": "password"
-      },
-      "kind": "required",
-      "path": "password"
+  "error": [
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "full_name",
+      "location": "body"
     },
-    "email": {
-      "name": "ValidatorError",
-      "message": "email wajib di isi",
-      "properties": {
-        "message": "email wajib di isi",
-        "type": "required",
-        "path": "email"
-      },
-      "kind": "required",
-      "path": "email"
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "email",
+      "location": "body"
     },
-    "full_name": {
-      "name": "ValidatorError",
-      "message": "Nama Harus di isi",
-      "properties": {
-        "message": "Nama Harus di isi",
-        "type": "required",
-        "path": "full_name"
-      },
-      "kind": "required",
-      "path": "full_name"
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "password",
+      "location": "body"
     }
-  }
+  ]
 }
