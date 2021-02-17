@@ -1,4 +1,10 @@
 {
-  "error": 1,
-  "message": "Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Product\""
+  "error": [
+    {
+      "value": [""],
+      "msg": "Invalid value",
+      "param": "product",
+      "location": "body"
+    }
+  ]
 }
