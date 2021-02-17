@@ -1,0 +1,16 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "orders": ["600478addce2d122c8efb5e5", "600478addce2d122c8efb5e5"],
+      "_id": "60281b0e703f692648ae8820",
+      "nama_lengkap": "dayat batak",
+      "amount": 2800000,
+      "email": "rahmathidayatullah996@gmail.com",
+      "user": "600eb4865efaee17c0052446",
+      "order_number": 322,
+      "__v": 0
+    }
+  ],
+  "count": 4
+}
