@@ -1,47 +1,34 @@
 {
-  "error": 1,
-  "message": "Discount validation failed: name: Nama Discount Wajib Di Isi, type: `` is not a valid enum value for path `type`., status: `` is not a valid enum value for path `status`.",
-  "fields": {
-    "name": {
-      "name": "ValidatorError",
-      "message": "Nama Discount Wajib Di Isi",
-      "properties": {
-        "message": "Nama Discount Wajib Di Isi",
-        "type": "required",
-        "path": "name",
-        "value": ""
-      },
-      "kind": "required",
-      "path": "name",
-      "value": ""
+  "error": [
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "name",
+      "location": "body"
     },
-    "type": {
-      "name": "ValidatorError",
-      "message": "`` is not a valid enum value for path `type`.",
-      "properties": {
-        "message": "`` is not a valid enum value for path `type`.",
-        "type": "enum",
-        "enumValues": ["%", "fixed"],
-        "path": "type",
-        "value": ""
-      },
-      "kind": "enum",
-      "path": "type",
-      "value": ""
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "type",
+      "location": "body"
     },
-    "status": {
-      "name": "ValidatorError",
-      "message": "`` is not a valid enum value for path `status`.",
-      "properties": {
-        "message": "`` is not a valid enum value for path `status`.",
-        "type": "enum",
-        "enumValues": ["y", "n"],
-        "path": "status",
-        "value": ""
-      },
-      "kind": "enum",
-      "path": "status",
-      "value": ""
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "status",
+      "location": "body"
+    },
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "value",
+      "location": "body"
+    },
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "date",
+      "location": "body"
     }
-  }
+  ]
 }
