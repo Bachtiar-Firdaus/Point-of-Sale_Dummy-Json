@@ -1,0 +1,34 @@
+{
+  "error": [
+    {
+      "msg": "Invalid value",
+      "param": "_id",
+      "location": "body"
+    },
+    {
+      "msg": "Invalid value",
+      "param": "qty",
+      "location": "body"
+    },
+    {
+      "msg": "Invalid value",
+      "param": "idVariantOption",
+      "location": "body"
+    },
+    {
+      "msg": "Invalid value",
+      "param": "variantName",
+      "location": "body"
+    },
+    {
+      "msg": "Invalid value",
+      "param": "variantOption",
+      "location": "body"
+    },
+    {
+      "msg": "Invalid value",
+      "param": "variantStock",
+      "location": "body"
+    }
+  ]
+}
