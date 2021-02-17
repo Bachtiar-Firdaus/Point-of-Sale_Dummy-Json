@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "_id": "600478addce2d122c8efb5e5",
+      "qty": 10,
+      "idVariantOption": "600b352159630e1f54ee8a8e",
+      "variantName": "Ukuran",
+      "variantOption": "L",
+      "variantStock": 2
+    },
+    {
+      "_id": "600478addce2d122c8efb5e5",
+      "qty": 10,
+      "idVariantOption": "600b352159630e1f54ee8a8f",
+      "variantName": "Ukuran",
+      "variantOption": "M",
+      "variantStock": 2
+    }
+  ]
+}
