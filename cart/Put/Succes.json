@@ -1,0 +1,89 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "idVariantOption": "600b352159630e1f54ee8a8e",
+      "product": "600478addce2d122c8efb5e5",
+      "price": 120000,
+      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+      "name": "Handler Baju",
+      "user": "600eb4865efaee17c0052446",
+      "qty": 10,
+      "discount": {
+        "name": "Discount Hari Besar",
+        "type": "%",
+        "value": 30
+      },
+      "variant": {
+        "name": "Ukuran",
+        "option": "L",
+        "stock": 2
+      },
+      "$set": {
+        "updatedAt": "2021-02-17T04:41:26.086Z",
+        "variant": {
+          "name": "Ukuran",
+          "option": "L",
+          "stock": 2
+        },
+        "discount": {
+          "name": "Discount Hari Besar",
+          "type": "%",
+          "value": 30
+        },
+        "qty": 10,
+        "user": "600eb4865efaee17c0052446",
+        "name": "Handler Baju",
+        "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+        "price": 120000,
+        "product": ["600478addce2d122c8efb5e5"],
+        "idVariantOption": "600b352159630e1f54ee8a8e"
+      },
+      "$setOnInsert": {
+        "createdAt": "2021-02-17T04:41:26.086Z"
+      }
+    },
+    {
+      "idVariantOption": "600b352159630e1f54ee8a8f",
+      "product": "600478addce2d122c8efb5e5",
+      "price": 120000,
+      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+      "name": "Handler Baju",
+      "user": "600eb4865efaee17c0052446",
+      "qty": 10,
+      "discount": {
+        "name": "Discount Hari Besar",
+        "type": "%",
+        "value": 30
+      },
+      "variant": {
+        "name": "Ukuran",
+        "option": "M",
+        "stock": 2
+      },
+      "$set": {
+        "updatedAt": "2021-02-17T04:41:26.086Z",
+        "variant": {
+          "name": "Ukuran",
+          "option": "M",
+          "stock": 2
+        },
+        "discount": {
+          "name": "Discount Hari Besar",
+          "type": "%",
+          "value": 30
+        },
+        "qty": 10,
+        "user": "600eb4865efaee17c0052446",
+        "name": "Handler Baju",
+        "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+        "price": 120000,
+        "product": ["600478addce2d122c8efb5e5"],
+        "idVariantOption": "600b352159630e1f54ee8a8f"
+      },
+      "$setOnInsert": {
+        "createdAt": "2021-02-17T04:41:26.086Z"
+      }
+    }
+  ]
+}
