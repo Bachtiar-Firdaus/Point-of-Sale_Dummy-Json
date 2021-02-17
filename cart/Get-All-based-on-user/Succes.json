@@ -1,0 +1,78 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "name": "Discount Hari Besar"
+      },
+      "variant": {
+        "name": "Ukuran",
+        "option": "L",
+        "stock": 2
+      },
+      "price": 120000,
+      "product": [
+        {
+          "price": 120000,
+          "_id": "600478addce2d122c8efb5e5",
+          "name": "Handler Baju",
+          "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+          "createdAt": "2021-01-17T17:49:33.466Z",
+          "updatedAt": "2021-02-16T16:30:17.467Z",
+          "__v": 0,
+          "discount": "600eb811466d8d3580b53325",
+          "variant": "600b352159630e1f54ee8a8c",
+          "category": "6009a4eb24a15b0cfcd1a1af",
+          "description": "Handler"
+        }
+      ],
+      "_id": "6028b514ae22d43d51a2a071",
+      "idVariantOption": "600b352159630e1f54ee8a8e",
+      "user": "600eb4865efaee17c0052446",
+      "createdAt": "2021-02-14T05:28:52.221Z",
+      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+      "name": "Handler Baju",
+      "qty": 10,
+      "updatedAt": "2021-02-17T04:41:26.086Z"
+    },
+    {
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "name": "Discount Hari Besar"
+      },
+      "variant": {
+        "name": "Ukuran",
+        "option": "M",
+        "stock": 2
+      },
+      "price": 120000,
+      "product": [
+        {
+          "price": 120000,
+          "_id": "600478addce2d122c8efb5e5",
+          "name": "Handler Baju",
+          "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+          "createdAt": "2021-01-17T17:49:33.466Z",
+          "updatedAt": "2021-02-16T16:30:17.467Z",
+          "__v": 0,
+          "discount": "600eb811466d8d3580b53325",
+          "variant": "600b352159630e1f54ee8a8c",
+          "category": "6009a4eb24a15b0cfcd1a1af",
+          "description": "Handler"
+        }
+      ],
+      "_id": "6028b514ae22d43d51a2a072",
+      "idVariantOption": "600b352159630e1f54ee8a8f",
+      "user": "600eb4865efaee17c0052446",
+      "createdAt": "2021-02-14T05:28:52.221Z",
+      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+      "name": "Handler Baju",
+      "qty": 10,
+      "updatedAt": "2021-02-17T04:41:26.086Z"
+    }
+  ],
+  "count": 2
+}
