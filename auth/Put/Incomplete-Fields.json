@@ -1,4 +1,19 @@
 {
-  "error": 1,
-  "message": "data and salt arguments required"
+  "error": [
+    {
+      "msg": "Invalid value",
+      "param": "full_name",
+      "location": "body"
+    },
+    {
+      "msg": "Invalid value",
+      "param": "email",
+      "location": "body"
+    },
+    {
+      "msg": "Invalid value",
+      "param": "password",
+      "location": "body"
+    }
+  ]
 }
