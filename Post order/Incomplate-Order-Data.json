@@ -1,0 +1,16 @@
+{
+  "error": [
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "nama_lengkap",
+      "location": "body"
+    },
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "email",
+      "location": "body"
+    }
+  ]
+}
