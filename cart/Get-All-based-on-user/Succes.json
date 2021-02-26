@@ -4,75 +4,113 @@
     {
       "discount": {
         "type": "%",
-        "value": 30,
-        "name": "Discount Hari Besar"
+        "value": 20,
+        "name": "Discount Valentine"
       },
       "variant": {
-        "name": "Ukuran",
-        "option": "L",
-        "stock": 2
+        "name": "Panjang",
+        "option": "Model",
+        "stock": 10
       },
       "price": 120000,
       "product": [
         {
           "price": 120000,
-          "_id": "600478addce2d122c8efb5e5",
-          "name": "Handler Baju",
-          "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
-          "createdAt": "2021-01-17T17:49:33.466Z",
-          "updatedAt": "2021-02-16T16:30:17.467Z",
+          "goods_sold": 37,
+          "_id": "6034a51d7e4a080022dfcabf",
+          "name": "StealSeries",
+          "category": "6034a37b7e4a080022dfcab9",
+          "variant": "6034a4ab7e4a080022dfcabc",
+          "description": "Handler",
+          "createdAt": "2021-02-23T06:47:57.773Z",
+          "updatedAt": "2021-02-26T07:54:44.088Z",
           "__v": 0,
-          "discount": "600eb811466d8d3580b53325",
-          "variant": "600b352159630e1f54ee8a8c",
-          "category": "6009a4eb24a15b0cfcd1a1af",
-          "description": "Handler"
+          "discount": "6038a90187ab9d00223b1616"
         }
       ],
-      "_id": "6028b514ae22d43d51a2a071",
-      "idVariantOption": "600b352159630e1f54ee8a8e",
-      "user": "600eb4865efaee17c0052446",
-      "createdAt": "2021-02-14T05:28:52.221Z",
-      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
-      "name": "Handler Baju",
-      "qty": 10,
-      "updatedAt": "2021-02-17T04:41:26.086Z"
+      "_id": "6038a66c57ab76ab97f6780e",
+      "idVariantOption": "6034a4ab7e4a080022dfcabd",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "categoryName": "StealSeries",
+      "createdAt": "2021-02-26T07:42:36.540Z",
+      "image_url": null,
+      "name": "StealSeries",
+      "qty": 3,
+      "updatedAt": "2021-02-26T07:54:54.094Z"
     },
     {
       "discount": {
         "type": "%",
-        "value": 30,
-        "name": "Discount Hari Besar"
+        "value": 20,
+        "name": "Discount Valentine"
       },
       "variant": {
-        "name": "Ukuran",
-        "option": "M",
-        "stock": 2
+        "name": "Pendek",
+        "option": "Model",
+        "stock": 5
       },
       "price": 120000,
       "product": [
         {
           "price": 120000,
-          "_id": "600478addce2d122c8efb5e5",
-          "name": "Handler Baju",
-          "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
-          "createdAt": "2021-01-17T17:49:33.466Z",
-          "updatedAt": "2021-02-16T16:30:17.467Z",
+          "goods_sold": 37,
+          "_id": "6034a51d7e4a080022dfcabf",
+          "name": "StealSeries",
+          "category": "6034a37b7e4a080022dfcab9",
+          "variant": "6034a4ab7e4a080022dfcabc",
+          "description": "Handler",
+          "createdAt": "2021-02-23T06:47:57.773Z",
+          "updatedAt": "2021-02-26T07:54:44.088Z",
           "__v": 0,
-          "discount": "600eb811466d8d3580b53325",
-          "variant": "600b352159630e1f54ee8a8c",
-          "category": "6009a4eb24a15b0cfcd1a1af",
-          "description": "Handler"
+          "discount": "6038a90187ab9d00223b1616"
         }
       ],
-      "_id": "6028b514ae22d43d51a2a072",
-      "idVariantOption": "600b352159630e1f54ee8a8f",
-      "user": "600eb4865efaee17c0052446",
-      "createdAt": "2021-02-14T05:28:52.221Z",
-      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
-      "name": "Handler Baju",
-      "qty": 10,
-      "updatedAt": "2021-02-17T04:41:26.086Z"
+      "_id": "6038a66c57ab76ab97f6780f",
+      "idVariantOption": "6034a4ab7e4a080022dfcabe",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "categoryName": "StealSeries",
+      "createdAt": "2021-02-26T07:42:36.540Z",
+      "image_url": null,
+      "name": "StealSeries",
+      "qty": 3,
+      "updatedAt": "2021-02-26T07:54:54.094Z"
+    },
+    {
+      "discount": {
+        "type": "%",
+        "value": 20,
+        "name": "Discount Valentine"
+      },
+      "variant": {
+        "name": "Size",
+        "option": "XL",
+        "stock": 1
+      },
+      "price": 120000,
+      "product": [
+        {
+          "price": 120000,
+          "goods_sold": 10,
+          "_id": "6034a5de7e4a080022dfcac1",
+          "name": "Baju Kemeja",
+          "category": "6034a59f7e4a080022dfcac0",
+          "variant": "6034a3967e4a080022dfcaba",
+          "description": "Batik",
+          "createdAt": "2021-02-23T06:51:10.742Z",
+          "updatedAt": "2021-02-26T07:54:44.088Z",
+          "__v": 0,
+          "discount": "6038a90187ab9d00223b1616"
+        }
+      ],
+      "_id": "6038a66c57ab76ab97f67810",
+      "idVariantOption": "600b352159630e1f54ee8a90",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "categoryName": "Singlet",
+      "createdAt": "2021-02-26T07:42:36.540Z",
+      "image_url": null,
+      "name": "Baju Kemeja",
+      "qty": 1,
+      "updatedAt": "2021-02-26T07:54:54.094Z"
     }
-  ],
-  "count": 2
+  ]
 }
