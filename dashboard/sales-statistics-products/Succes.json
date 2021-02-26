@@ -1,0 +1,37 @@
+{
+  "message": "succes",
+  "statistics": "product",
+  "indicator": "Baju Kemeja",
+  "data": [
+    {
+      "day": "Monday",
+      "date": "2021-02-22",
+      "value": 0
+    },
+    {
+      "day": "Tuesday",
+      "date": "2021-02-23",
+      "value": 120000
+    },
+    {
+      "day": "Wednesday",
+      "date": "2021-02-24",
+      "value": 0
+    },
+    {
+      "day": "Thursday",
+      "date": "2021-02-25",
+      "value": 0
+    },
+    {
+      "day": "Friday",
+      "date": "2021-02-26",
+      "value": 96000
+    },
+    {
+      "day": "Saturday",
+      "date": "2021-02-27",
+      "value": 0
+    }
+  ]
+}
