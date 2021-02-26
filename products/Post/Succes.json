@@ -2,14 +2,14 @@
   "message": "succes",
   "data": {
     "price": 120000,
-    "_id": "602b801008913c1b54a153f0",
-    "name": "Handler Baju",
-    "category": "6009a4eb24a15b0cfcd1a1af",
-    "variant": "600b352159630e1f54ee8a8c",
-    "description": "Handler",
-    "image_url": "960215120d5f9f6b430d0d9bd79773ea.jpg",
-    "createdAt": "2021-02-16T08:19:28.725Z",
-    "updatedAt": "2021-02-16T08:19:28.725Z",
+    "goods_sold": 0,
+    "_id": "6038ae9987ab9d00223b161c",
+    "name": "Baju Kaos Oblong",
+    "category": "6034a59f7e4a080022dfcac0",
+    "variant": "6034a3967e4a080022dfcaba",
+    "description": "Batik",
+    "createdAt": "2021-02-26T08:17:29.317Z",
+    "updatedAt": "2021-02-26T08:17:29.317Z",
     "__v": 0
   }
 }
