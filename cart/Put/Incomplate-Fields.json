@@ -15,6 +15,12 @@
     {
       "value": "",
       "msg": "Invalid value",
+      "param": "items[0].categoryName",
+      "location": "body"
+    },
+    {
+      "value": "",
+      "msg": "Invalid value",
       "param": "items[0].idVariantOption",
       "location": "body"
     },
