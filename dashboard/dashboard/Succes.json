@@ -1,122 +1,103 @@
 {
   "message": "succes",
-  "data": [
+  "data_sigma": {
+    "sigmaTodaysIncome": 840000,
+    "sigmaWeeklyIncome": 1512000,
+    "sigmaMonthlyIncome": 1512000
+  },
+  "data_user": [
     {
-      "name": "Todays Income",
-      "date": "2021-02-23",
-      "sigmaTodaysIncome": 840000
+      "name": "daus",
+      "status": "Active"
     },
     {
-      "name": "Weekly Income",
-      "Start_Date": "2021-02-22",
-      "End_Date": "2021-02-28",
-      "sigmaWeeklyIncome": 1512000
-    },
+      "name": "Bachtiar Firdaus",
+      "status": "Active"
+    }
+  ],
+  "data_best_seller": [
     {
-      "name": "Moontly Income",
-      "Moon": "February",
-      "sigmaMonthlyIncome": 1512000
-    },
-    {
-      "name": "User Active",
-      "data": [
-        {
-          "name": "daus",
-          "status": "Active"
-        },
-        {
-          "name": "Bachtiar Firdaus",
-          "status": "Active"
-        }
-      ]
-    },
-    {
-      "name": "Best Seller",
-      "data": [
-        {
-          "price": 120000,
-          "goods_sold": 43,
-          "_id": "6034a51d7e4a080022dfcabf",
-          "name": "StealSeries",
-          "category": {
-            "_id": "6034a37b7e4a080022dfcab9",
-            "name": "StealSeries",
-            "__v": 0
+      "price": 120000,
+      "goods_sold": 43,
+      "_id": "6034a51d7e4a080022dfcabf",
+      "name": "StealSeries",
+      "category": {
+        "_id": "6034a37b7e4a080022dfcab9",
+        "name": "StealSeries",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "6034a4ab7e4a080022dfcabc",
+        "name": "Model",
+        "option": [
+          {
+            "_id": "6034a4ab7e4a080022dfcabd",
+            "name": "Panjang",
+            "stock": 10
           },
-          "variant": {
-            "_id": "6034a4ab7e4a080022dfcabc",
-            "name": "Model",
-            "option": [
-              {
-                "_id": "6034a4ab7e4a080022dfcabd",
-                "name": "Panjang",
-                "stock": 10
-              },
-              {
-                "_id": "6034a4ab7e4a080022dfcabe",
-                "name": "Pendek",
-                "stock": 5
-              }
-            ],
-            "__v": 0
-          },
-          "description": "Handler",
-          "createdAt": "2021-02-23T06:47:57.773Z",
-          "updatedAt": "2021-02-26T07:59:54.824Z",
-          "__v": 0,
-          "discount": {
-            "type": "%",
-            "value": 20,
-            "status": "y",
-            "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
-            "_id": "6038a90187ab9d00223b1616",
-            "name": "Discount Valentine",
-            "date": "2021-01-31T00:00:00.000Z",
-            "createdAt": "2021-02-26T07:53:38.003Z",
-            "updatedAt": "2021-02-26T07:54:44.177Z",
-            "__v": 0
+          {
+            "_id": "6034a4ab7e4a080022dfcabe",
+            "name": "Pendek",
+            "stock": 5
           }
-        },
-        {
-          "price": 120000,
-          "goods_sold": 11,
-          "_id": "6034a5de7e4a080022dfcac1",
-          "name": "Baju Kemeja",
-          "category": {
-            "_id": "6034a59f7e4a080022dfcac0",
-            "name": "Singlet",
-            "__v": 0
-          },
-          "variant": {
-            "_id": "6034a3967e4a080022dfcaba",
-            "name": "Size",
-            "option": [
-              {
-                "_id": "6034a3967e4a080022dfcabb",
-                "name": "XL",
-                "stock": -28
-              }
-            ],
-            "__v": 0
-          },
-          "description": "Batik",
-          "createdAt": "2021-02-23T06:51:10.742Z",
-          "updatedAt": "2021-02-26T07:59:54.833Z",
-          "__v": 0,
-          "discount": {
-            "type": "%",
-            "value": 20,
-            "status": "y",
-            "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
-            "_id": "6038a90187ab9d00223b1616",
-            "name": "Discount Valentine",
-            "date": "2021-01-31T00:00:00.000Z",
-            "createdAt": "2021-02-26T07:53:38.003Z",
-            "updatedAt": "2021-02-26T07:54:44.177Z",
-            "__v": 0
+        ],
+        "__v": 0
+      },
+      "description": "Handler",
+      "createdAt": "2021-02-23T06:47:57.773Z",
+      "updatedAt": "2021-02-26T07:59:54.824Z",
+      "__v": 0,
+      "discount": {
+        "type": "%",
+        "value": 20,
+        "status": "y",
+        "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
+        "_id": "6038a90187ab9d00223b1616",
+        "name": "Discount Valentine",
+        "date": "2021-01-31T00:00:00.000Z",
+        "createdAt": "2021-02-26T07:53:38.003Z",
+        "updatedAt": "2021-02-26T07:54:44.177Z",
+        "__v": 0
+      }
+    },
+    {
+      "price": 120000,
+      "goods_sold": 11,
+      "_id": "6034a5de7e4a080022dfcac1",
+      "name": "Baju Kemeja",
+      "category": {
+        "_id": "6034a59f7e4a080022dfcac0",
+        "name": "Singlet",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "6034a3967e4a080022dfcaba",
+        "name": "Size",
+        "option": [
+          {
+            "_id": "6034a3967e4a080022dfcabb",
+            "name": "XL",
+            "stock": -28
           }
-        }
-      ]
+        ],
+        "__v": 0
+      },
+      "description": "Batik",
+      "createdAt": "2021-02-23T06:51:10.742Z",
+      "updatedAt": "2021-02-26T07:59:54.833Z",
+      "__v": 0,
+      "discount": {
+        "type": "%",
+        "value": 20,
+        "status": "y",
+        "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
+        "_id": "6038a90187ab9d00223b1616",
+        "name": "Discount Valentine",
+        "date": "2021-01-31T00:00:00.000Z",
+        "createdAt": "2021-02-26T07:53:38.003Z",
+        "updatedAt": "2021-02-26T07:54:44.177Z",
+        "__v": 0
+      }
     }
   ]
 }
