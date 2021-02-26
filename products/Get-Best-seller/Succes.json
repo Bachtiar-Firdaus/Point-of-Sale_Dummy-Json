@@ -1,0 +1,64 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "price": 120000,
+      "goods_sold": 37,
+      "_id": "6034a51d7e4a080022dfcabf",
+      "name": "StealSeries",
+      "category": {
+        "_id": "6034a37b7e4a080022dfcab9",
+        "name": "StealSeries",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "6034a4ab7e4a080022dfcabc",
+        "name": "Model",
+        "option": [
+          {
+            "_id": "6034a4ab7e4a080022dfcabd",
+            "name": "Panjang",
+            "stock": 10
+          },
+          {
+            "_id": "6034a4ab7e4a080022dfcabe",
+            "name": "Pendek",
+            "stock": 5
+          }
+        ],
+        "__v": 0
+      },
+      "description": "Handler",
+      "createdAt": "2021-02-23T06:47:57.773Z",
+      "updatedAt": "2021-02-23T14:04:17.663Z",
+      "__v": 0
+    },
+    {
+      "price": 120000,
+      "goods_sold": 10,
+      "_id": "6034a5de7e4a080022dfcac1",
+      "name": "Baju Kemeja",
+      "category": {
+        "_id": "6034a59f7e4a080022dfcac0",
+        "name": "Singlet",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "6034a3967e4a080022dfcaba",
+        "name": "Size",
+        "option": [
+          {
+            "_id": "6034a3967e4a080022dfcabb",
+            "name": "XL",
+            "stock": -27
+          }
+        ],
+        "__v": 0
+      },
+      "description": "Batik",
+      "createdAt": "2021-02-23T06:51:10.742Z",
+      "updatedAt": "2021-02-23T14:04:17.656Z",
+      "__v": 0
+    }
+  ]
+}
