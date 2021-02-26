@@ -2,87 +2,129 @@
   "message": "succes",
   "data": [
     {
-      "idVariantOption": "600b352159630e1f54ee8a8e",
-      "product": "600478addce2d122c8efb5e5",
+      "idVariantOption": "6034a4ab7e4a080022dfcabd",
+      "categoryName": "StealSeries",
+      "product": "6034a51d7e4a080022dfcabf",
       "price": 120000,
-      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
-      "name": "Handler Baju",
-      "user": "600eb4865efaee17c0052446",
-      "qty": 10,
+      "name": "StealSeries",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "qty": 3,
       "discount": {
-        "name": "Discount Hari Besar",
+        "name": "Discount Valentine",
         "type": "%",
-        "value": 30
+        "value": 20
       },
       "variant": {
-        "name": "Ukuran",
-        "option": "L",
-        "stock": 2
+        "name": "Panjang",
+        "option": "Model",
+        "stock": 10
       },
       "$set": {
-        "updatedAt": "2021-02-17T04:41:26.086Z",
+        "updatedAt": "2021-02-26T07:54:54.094Z",
         "variant": {
-          "name": "Ukuran",
-          "option": "L",
-          "stock": 2
+          "name": "Panjang",
+          "option": "Model",
+          "stock": 10
         },
         "discount": {
-          "name": "Discount Hari Besar",
+          "name": "Discount Valentine",
           "type": "%",
-          "value": 30
+          "value": 20
         },
-        "qty": 10,
-        "user": "600eb4865efaee17c0052446",
-        "name": "Handler Baju",
-        "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+        "qty": 3,
+        "user": "6034a2dc7e4a080022dfcab7",
+        "name": "StealSeries",
         "price": 120000,
-        "product": ["600478addce2d122c8efb5e5"],
-        "idVariantOption": "600b352159630e1f54ee8a8e"
+        "product": ["6034a51d7e4a080022dfcabf"],
+        "categoryName": "StealSeries",
+        "idVariantOption": "6034a4ab7e4a080022dfcabd"
       },
       "$setOnInsert": {
-        "createdAt": "2021-02-17T04:41:26.086Z"
+        "createdAt": "2021-02-26T07:54:54.094Z"
       }
     },
     {
-      "idVariantOption": "600b352159630e1f54ee8a8f",
-      "product": "600478addce2d122c8efb5e5",
+      "idVariantOption": "6034a4ab7e4a080022dfcabe",
+      "categoryName": "StealSeries",
+      "product": "6034a51d7e4a080022dfcabf",
       "price": 120000,
-      "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
-      "name": "Handler Baju",
-      "user": "600eb4865efaee17c0052446",
-      "qty": 10,
+      "name": "StealSeries",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "qty": 3,
       "discount": {
-        "name": "Discount Hari Besar",
+        "name": "Discount Valentine",
         "type": "%",
-        "value": 30
+        "value": 20
       },
       "variant": {
-        "name": "Ukuran",
-        "option": "M",
-        "stock": 2
+        "name": "Pendek",
+        "option": "Model",
+        "stock": 5
       },
       "$set": {
-        "updatedAt": "2021-02-17T04:41:26.086Z",
+        "updatedAt": "2021-02-26T07:54:54.094Z",
         "variant": {
-          "name": "Ukuran",
-          "option": "M",
-          "stock": 2
+          "name": "Pendek",
+          "option": "Model",
+          "stock": 5
         },
         "discount": {
-          "name": "Discount Hari Besar",
+          "name": "Discount Valentine",
           "type": "%",
-          "value": 30
+          "value": 20
         },
-        "qty": 10,
-        "user": "600eb4865efaee17c0052446",
-        "name": "Handler Baju",
-        "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+        "qty": 3,
+        "user": "6034a2dc7e4a080022dfcab7",
+        "name": "StealSeries",
         "price": 120000,
-        "product": ["600478addce2d122c8efb5e5"],
-        "idVariantOption": "600b352159630e1f54ee8a8f"
+        "product": ["6034a51d7e4a080022dfcabf"],
+        "categoryName": "StealSeries",
+        "idVariantOption": "6034a4ab7e4a080022dfcabe"
       },
       "$setOnInsert": {
-        "createdAt": "2021-02-17T04:41:26.086Z"
+        "createdAt": "2021-02-26T07:54:54.094Z"
+      }
+    },
+    {
+      "idVariantOption": "600b352159630e1f54ee8a90",
+      "categoryName": "Singlet",
+      "product": "6034a5de7e4a080022dfcac1",
+      "price": 120000,
+      "name": "Baju Kemeja",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "qty": 1,
+      "discount": {
+        "name": "Discount Valentine",
+        "type": "%",
+        "value": 20
+      },
+      "variant": {
+        "name": "Size",
+        "option": "XL",
+        "stock": 1
+      },
+      "$set": {
+        "updatedAt": "2021-02-26T07:54:54.094Z",
+        "variant": {
+          "name": "Size",
+          "option": "XL",
+          "stock": 1
+        },
+        "discount": {
+          "name": "Discount Valentine",
+          "type": "%",
+          "value": 20
+        },
+        "qty": 1,
+        "user": "6034a2dc7e4a080022dfcab7",
+        "name": "Baju Kemeja",
+        "price": 120000,
+        "product": ["6034a5de7e4a080022dfcac1"],
+        "categoryName": "Singlet",
+        "idVariantOption": "600b352159630e1f54ee8a90"
+      },
+      "$setOnInsert": {
+        "createdAt": "2021-02-26T07:54:54.094Z"
       }
     }
   ]
