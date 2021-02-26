@@ -1,20 +1,31 @@
 {
   "items": [
     {
-      "_id": "600478addce2d122c8efb5e5",
-      "qty": 10,
-      "idVariantOption": "600b352159630e1f54ee8a8e",
-      "variantName": "Ukuran",
-      "variantOption": "L",
-      "variantStock": 2
+      "_id": "6034a51d7e4a080022dfcabf",
+      "qty": 3,
+      "categoryName": "StealSeries",
+      "idVariantOption": "6034a4ab7e4a080022dfcabd",
+      "variantName": "Panjang",
+      "variantOption": "Model",
+      "variantStock": 10
     },
     {
-      "_id": "600478addce2d122c8efb5e5",
-      "qty": 10,
-      "idVariantOption": "600b352159630e1f54ee8a8f",
-      "variantName": "Ukuran",
-      "variantOption": "M",
-      "variantStock": 2
+      "_id": "6034a51d7e4a080022dfcabf",
+      "qty": 3,
+      "categoryName": "StealSeries",
+      "idVariantOption": "6034a4ab7e4a080022dfcabe",
+      "variantName": "Pendek",
+      "variantOption": "Model",
+      "variantStock": 5
+    },
+    {
+      "_id": "6034a5de7e4a080022dfcac1",
+      "qty": 1,
+      "categoryName": "Singlet",
+      "idVariantOption": "600b352159630e1f54ee8a90",
+      "variantName": "Size",
+      "variantOption": "XL",
+      "variantStock": 1
     }
   ]
 }
