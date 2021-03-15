@@ -2,88 +2,434 @@
   "message": "succes",
   "data": [
     {
-      "price": 120000,
-      "goods_sold": 43,
-      "_id": "6034a51d7e4a080022dfcabf",
-      "name": "StealSeries",
+      "price": 21800,
+      "goodsSold": 0,
+      "_id": "6041ee12effa141ea06952ab",
+      "name": "Tas Selempang Pria Kulit Sling Bag kulit USB Port Tas Selempang Bahu01",
       "category": {
-        "_id": "6034a37b7e4a080022dfcab9",
-        "name": "StealSeries",
+        "_id": "6041e4a7e558050818504f30",
+        "name": "Tas Pria",
         "__v": 0
       },
       "variant": {
-        "_id": "6034a4ab7e4a080022dfcabc",
-        "name": "Model",
+        "_id": "604dc39662dc579e11f87eeb",
+        "name": "Warna - Tas Selempang Pria Kulit Sling Bag kulit USB Port Tas Selempang Bahu01",
         "option": [
           {
-            "_id": "6034a4ab7e4a080022dfcabd",
-            "name": "Panjang",
+            "_id": "6041ece0effa141ea06952b3",
+            "name": "Hitam",
             "stock": 10
           },
           {
-            "_id": "6034a4ab7e4a080022dfcabe",
-            "name": "Pendek",
-            "stock": 5
+            "_id": "6041ece0effa141ea06952b4",
+            "name": "Coklat",
+            "stock": 10
+          },
+          {
+            "_id": "6041ece0effa141ea06952b5",
+            "name": "Putih",
+            "stock": 10
           }
         ],
+        "createdAt": "2021-03-11T07:24:04.662Z",
+        "updatedAt": "2021-03-11T07:24:04.662Z",
         "__v": 0
       },
-      "description": "Handler",
-      "createdAt": "2021-02-23T06:47:57.773Z",
-      "updatedAt": "2021-02-26T07:59:54.824Z",
+      "description": "Tas selempang terlaris saat ini...grab it fast :)\n\n\nWarna :\n\n1. Light brown / coklat muda\n2. Dark brown / coklat tua\n3. Black / hitam\n\n** 1 KG = 4 PCS\n** 2 KG = 7 PCS\n\n\nUkuran : panjang 16 x lebar 10 x tinggi 34 cm\n\nBahan : Kulit sintetis\n\n~ Ada 4 slot\n~ Ada port usb\n~ Ada lubang headset\n~ Bahan lentur",
+      "imageUrl": "a6ac58ae3058725454c66c41a92cc4e9.jpg",
+      "createdAt": "2021-03-01T08:53:33.141Z",
+      "updatedAt": "2021-03-01T08:53:33.141Z",
+      "__v": 0
+    },
+    {
+      "price": 43500,
+      "goodsSold": 0,
+      "_id": "6041edbfeffa141ea06952aa",
+      "name": "Tas Pinggang Dengan Tempat Botol Tactical Army B321",
+      "category": {
+        "_id": "6041e4a7e558050818504f30",
+        "name": "Tas Pria",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "604dc36162dc579e11f87eea",
+        "name": "Warna - Tas Pinggang Dengan Tempat Botol Tactical Army B321",
+        "option": [
+          {
+            "_id": "6041ece0effa141ea06952a9",
+            "name": "Hitam",
+            "stock": 10
+          },
+          {
+            "_id": "6041ece0effa141ea06952b1",
+            "name": "Coklat",
+            "stock": 10
+          },
+          {
+            "_id": "6041ece0effa141ea06952b2",
+            "name": "Putih",
+            "stock": 10
+          }
+        ],
+        "createdAt": "2021-03-11T07:24:04.662Z",
+        "updatedAt": "2021-03-11T07:24:04.662Z",
+        "__v": 0
+      },
+      "description": "Spec :\n*Bahan High density Cordura, tebal, kuat, terdapat lapisan lagi didalamnya dan banyak kantong. Multifungsi terdapat kantong minum.\n\nBahan Cordura\nSize : 22 x 19 x 10 cm\nTersedia dalam warna:\nHITAM Solt Out\nHIJAU\nKhaki\n\nSertakan Warna pada keterangan saat melakukan order, jika tidak menyertakan keterangan Warna akan kami kirim secara acak/random.\n\nBarang Sudah Dicek kondisi Fisik Bagus (Tidak Pecah, Rusak, Patah, Dll). Kerusakan Yg Terjadi Dalam Perjalanan (xpdc) Bukan Tanggung Jawab Penjual\n\nHarga Di Atas 1 Pcs\nBerat Satuan: 400 Gram\nKode : B321",
+      "imageUrl": "11b2eaf2d5cc5fd9ebb64126c7622fea.jpg",
+      "createdAt": "2021-02-28T08:53:33.141Z",
+      "updatedAt": "2021-02-28T08:53:33.141Z",
+      "__v": 0
+    },
+    {
+      "price": 26314000,
+      "goodsSold": 0,
+      "_id": "6041f04ceffa141ea06952b5",
+      "name": "Spesial Offer Lilyshoes Sunter - Real Pict Sepatu Dalleya Wanita",
+      "category": {
+        "_id": "6041e493e558050818504f2f",
+        "name": "Flat Wanita",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "604dce85b211091494072c41",
+        "name": "Ukuran - Spesial Offer Lilyshoes Sunter - Real Pict Sepatu Dalleya Wanita",
+        "option": [
+          {
+            "_id": "604dce85b211091494072c42",
+            "name": "35",
+            "stock": 10
+          },
+          {
+            "_id": "604dce85b211091494072c43",
+            "name": "36",
+            "stock": 10
+          },
+          {
+            "_id": "604dce85b211091494072c44",
+            "name": "37",
+            "stock": 10
+          },
+          {
+            "_id": "604dce85b211091494072c45",
+            "name": "38",
+            "stock": 10
+          },
+          {
+            "_id": "604dce85b211091494072c46",
+            "name": "39",
+            "stock": 10
+          },
+          {
+            "_id": "604dce85b211091494072c47",
+            "name": "40",
+            "stock": 10
+          }
+        ],
+        "createdAt": "2021-03-14T08:51:17.069Z",
+        "updatedAt": "2021-03-14T08:51:17.069Z",
+        "__v": 0
+      },
+      "description": "all photo REALPICT, baik OUTDOOR/INDOOR atau BACKGROUND putih. Mohon untuk TIDAK\nuntuk disalahgunakan selain untung kepentingan RESELLER dari kami..\n\nsemua produk kami adalah HANDMADE, yang di PRODUKSI sendiri dengan BRAND DALLEYA\nCOLLECTION\n\nSTOCK tersedia bs lgsg d order,, bila kosong, silahkan cek bbrp hr k dpn,\nmungkin akan restock..\n\nmenginformasikan segera untuk ganti barang..\n\nORDER YG sdh msk TIDAK bs d cancel/ganti sepatu/ ganti sz dll.. smua d krm\nsesuai PRINT OUT dr MARKET PLACA\n\ntidak melayani order TIDAK SESUAI KETENTUAN MARKET PLACE\n\nsmua barang telah melalui proses checking sblm pengiriman\n\nNO RETURN, kecuali ada kesalahan pengiriman barang dr kami, dengan melampirkan\nBUKTI berupa foto barang + foto kertas orderan di sisi depan paket anda.\n\nmohon segera lakukan konfirmasi terima.\n\nOpen order senin - sabtu 09.00-21.00 wib.. minggu libur.. hari libur nasional\ntetap buka, kecuali ada pemberitahuan\n\n\n#sepatuwanita\n#sepatusport\n#sepatumurah\n#sepatusendalterlaris\n#sepatuolahraga\n#sepatuonlineterpercaya\n#sepatuberkualitas\n#sepatusendallaris\n#sepatukerja\n#sendalsandalcasual\n#sepatusneakers\n#sepatusimple\n#dalleyacollection\n\n#sepatusneakers\n#sepatusandal\n#sneakerswanita#sepatuwanita\n#sepatutrendy\n#sepatumurah\n#sepatupromo\n#sepatudalleya\n#sepatuonlineterpercaya\n#sepatuberkualitas\n#sepatusendal\n#pantofelkerja\n#sepatukerja\n#sepatuhaktinggi\n#sepatusimple\n#dalleyacollection\n\nStok Update setiap hari",
+      "imageUrl": "67e2aad8dffa152926218b01f875d04d.jpg",
+      "createdAt": "2021-03-04T08:53:33.141Z",
+      "updatedAt": "2021-03-04T08:53:33.141Z",
+      "__v": 0
+    },
+    {
+      "price": 1385000,
+      "goodsSold": 0,
+      "_id": "6041ef89effa141ea06952b3",
+      "name": "Sepatu Wanita Tory Burch Kira Cap toe",
+      "category": {
+        "_id": "6041e493e558050818504f2f",
+        "name": "Flat Wanita",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "604dc3d962dc579e11f87eec",
+        "name": "Ukuran - Sepatu Wanita Tory Burch Kira Cap toe",
+        "option": [
+          {
+            "_id": "6041eef4effa141ea06952ad",
+            "name": "35",
+            "stock": 10
+          },
+          {
+            "_id": "6041eef4effa141ea06952ae",
+            "name": "36",
+            "stock": 10
+          },
+          {
+            "_id": "6041eef4effa141ea06952af",
+            "name": "37",
+            "stock": 10
+          },
+          {
+            "_id": "6041eef4effa141ea06952c0",
+            "name": "38",
+            "stock": 10
+          },
+          {
+            "_id": "6041eef4effa141ea06952c1",
+            "name": "39",
+            "stock": 10
+          },
+          {
+            "_id": "6041eef4effa141ea06952c2",
+            "name": "40",
+            "stock": 10
+          }
+        ],
+        "createdAt": "2021-03-12T07:24:04.662Z",
+        "updatedAt": "2021-03-12T07:24:04.662Z",
+        "__v": 0
+      },
+      "description": "**READY STOCK**\n\nName : Tory Burch Kira Cap Toe Pump Heels\nSize :\nNavy : 36-36,5-37\nCoklat : 36,5\nBerat : 0,85kg\nKualitas : Sisa produksi pabrik\nKelengkapan : BOX (Selama Persediaan Masih Ada)\n\n\nKeterangan\n-Warna sesuai dengan foto\n-Foto 100% sama dengan aslinya (REAL PICT)\n-Foto merupakan koleksi pribadi, bukan hasil dari internet\n-Packing with bubble wrap",
+      "imageUrl": "d3b161a7f441313a78a0b770c4ceb8b6.jpg",
+      "createdAt": "2021-03-02T08:53:33.141Z",
+      "updatedAt": "2021-03-02T08:53:33.141Z",
+      "__v": 0
+    },
+    {
+      "price": 36000,
+      "goodsSold": 8,
+      "_id": "6041e728e558050818504f36",
+      "name": "Roasted Mix Sunflower Pumpkin Seeds",
+      "category": {
+        "_id": "6041e482e558050818504f2e",
+        "name": "Makanan Kering",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "604dc22662dc579e11f87ee7",
+        "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+        "option": [
+          {
+            "_id": "6041e50fe558050818504f35",
+            "name": "1 KG",
+            "stock": 8
+          },
+          {
+            "_id": "6041e50fe558050818504f36",
+            "name": "2 KG",
+            "stock": 4
+          },
+          {
+            "_id": "6041e50fe558050818504f37",
+            "name": "25 KG",
+            "stock": 10
+          }
+        ],
+        "createdAt": "2021-03-10T07:24:04.662Z",
+        "updatedAt": "2021-03-14T08:59:50.330Z",
+        "__v": 0
+      },
+      "description": "Now Available Roasted Mix Seeds ( Panggang )\nPumpkin and Sunflower",
+      "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+      "createdAt": "2021-02-25T08:53:33.141Z",
+      "updatedAt": "2021-03-14T08:59:50.305Z",
       "__v": 0,
       "discount": {
         "type": "%",
-        "value": 20,
+        "value": 30,
         "status": "y",
-        "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
-        "_id": "6038a90187ab9d00223b1616",
-        "name": "Discount Valentine",
-        "date": "2021-01-31T00:00:00.000Z",
-        "createdAt": "2021-02-26T07:53:38.003Z",
-        "updatedAt": "2021-02-26T07:54:44.177Z",
+        "product": ["6041e5c4e558050818504f35", "6041e728e558050818504f36"],
+        "_id": "604c7165f178603884324d69",
+        "name": "Discount Ulang Tahun",
+        "date": "2021-01-30T17:00:00.000Z",
+        "createdAt": "2021-03-13T08:01:41.866Z",
+        "updatedAt": "2021-03-14T08:56:47.634Z",
         "__v": 0
       }
     },
     {
-      "price": 120000,
-      "goods_sold": 11,
-      "_id": "6034a5de7e4a080022dfcac1",
-      "name": "Baju Kemeja",
+      "price": 28000,
+      "goodsSold": 12,
+      "_id": "6041e5c4e558050818504f35",
+      "name": "Rempeyek Peyek Nyai Kacang",
       "category": {
-        "_id": "6034a59f7e4a080022dfcac0",
-        "name": "Singlet",
+        "_id": "6041e482e558050818504f2e",
+        "name": "Makanan Kering",
         "__v": 0
       },
       "variant": {
-        "_id": "6034a3967e4a080022dfcaba",
-        "name": "Size",
+        "_id": "6041e50fe558050818504f31",
+        "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
         "option": [
           {
-            "_id": "6034a3967e4a080022dfcabb",
-            "name": "XL",
-            "stock": -28
+            "_id": "6041e50fe558050818504f32",
+            "name": "1 KG",
+            "stock": 4
+          },
+          {
+            "_id": "6041e50fe558050818504f33",
+            "name": "2 KG",
+            "stock": 4
+          },
+          {
+            "_id": "6041e50fe558050818504f34",
+            "name": "25 KG",
+            "stock": 10
           }
         ],
+        "createdAt": "2021-03-10T07:24:04.662Z",
+        "updatedAt": "2021-03-14T08:59:50.324Z",
         "__v": 0
       },
-      "description": "Batik",
-      "createdAt": "2021-02-23T06:51:10.742Z",
-      "updatedAt": "2021-02-26T07:59:54.833Z",
+      "description": "MOHON BACA KETENTUAN PENGIRIMAN SEBELUM ORDER YA\n\nPeyek Nyai Kacang di dalam toples ukuran 1500 ml.\n200-250 gr\n\nPENGIRIMAN\ndisarankan menggunakan kurir gojek/grab, dikarenakan barang yg mudah hancur/remuk.\n\nKami tidak bertanggung jawab atas kerusakkan peyek dalam pengiriman kurir, karena kami akan memastikan packing yg aman dan peyek yang utuh sebelum pengiriman.\n\nPERHATIAN JIKA INGIN PEYEK DITERIMA UTUH!!\nWajib memakai grab/gosend karena pengiriman melalui JNE / J&T / Ninja Xpress beresiko remuk walau kami sudah packing aman.\n\nKENAPA PEYEK NYAI BEDA DARI PEYEK2 LAINNYA?\n- HALAL\n- Minyak yg dipakai berkualitas & selalu baru/fresh (SEHAT)\n- Tidak pakai bahan pengawet (SEHAT)\n- Rasa dijamin sangat enak!!!\n- Bahan2 berkualitas premium!\n- Topping tidak pelit (kacangnya premium & banyak)\n\nBarang yg aktif di etalase kami selalu ready, silahkan langsung dipesan. Tahan hingga 2 minggu jika masih tersegel.",
+      "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+      "createdAt": "2021-02-24T08:53:33.141Z",
+      "updatedAt": "2021-03-14T08:59:50.310Z",
       "__v": 0,
       "discount": {
         "type": "%",
-        "value": 20,
+        "value": 30,
         "status": "y",
-        "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
-        "_id": "6038a90187ab9d00223b1616",
-        "name": "Discount Valentine",
-        "date": "2021-01-31T00:00:00.000Z",
-        "createdAt": "2021-02-26T07:53:38.003Z",
-        "updatedAt": "2021-02-26T07:54:44.177Z",
+        "product": ["6041e5c4e558050818504f35", "6041e728e558050818504f36"],
+        "_id": "604c7165f178603884324d69",
+        "name": "Discount Ulang Tahun",
+        "date": "2021-01-30T17:00:00.000Z",
+        "createdAt": "2021-03-13T08:01:41.866Z",
+        "updatedAt": "2021-03-14T08:56:47.634Z",
         "__v": 0
       }
+    },
+    {
+      "price": 79000,
+      "goodsSold": 0,
+      "_id": "6041ed68effa141ea06952a9",
+      "name": "Navy Club Tas Selempang Travel",
+      "category": {
+        "_id": "6041e4a7e558050818504f30",
+        "name": "Tas Pria",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "604dc32062dc579e11f87ee9",
+        "name": "Warna - Navy Club Tas Selempang Travel",
+        "option": [
+          {
+            "_id": "6041ece0effa141ea06952a6",
+            "name": "Hitam",
+            "stock": 10
+          },
+          {
+            "_id": "6041ece0effa141ea06952a7",
+            "name": "Coklat",
+            "stock": 10
+          },
+          {
+            "_id": "6041ece0effa141ea06952a8",
+            "name": "Putih",
+            "stock": 10
+          }
+        ],
+        "createdAt": "2021-03-11T07:24:04.662Z",
+        "updatedAt": "2021-03-11T07:24:04.662Z",
+        "__v": 0
+      },
+      "description": "UNTUK PEMBELIAN 1-3 PC MASIH DALAM JANGKAUAN BERAT PENGIRIMAN 1 KG\n\nNavy Club Tas Selempang Travel ini cocok untuk Anda yang sering beraktifitas indoor ataupun outdoor. Dengan ukuran medium mampu memuat gadget anda mulai dari smartphone, dompet, notes, dan barang lainnya. Navy Club Tas Selempang Travel ini juga hadir dengan tali panjang yang bisa diatur, dikemas dengan bahan canvas tidak mudah tembus air (waterproof), serta desain yang berbeda dengan tas selempang lainnya.Berikut beberapa fitur produk tas selempang ini:\n1. Busa punggung yang empuk membuat Anda merasa nyaman menggunakan tas ini dalam waktu yang lama.\nNavy Club Tas Selempang Travel ini cocok untuk Anda yang sering beraktifitas indoor ataupun outdoor. Dengan ukuran medium mampu memuat gadget anda mulai dari smartphone, dompet, notes, dan barang lainnya. Navy Club Tas Selempang Travel ini juga hadir dengan tali panjang yang bisa diatur, dikemas dengan bahan canvas tidak mudah tembus air (waterproof), serta desain yang berbeda dengan tas selempang lainnya.Berikut beberapa fitur produk tas selempang ini:\n\n2. Busa punggung yang empuk membuat Anda merasa nyaman menggunakan tas ini dalam waktu yang lama.\n3. Dilengkapi kolom rahasia, Untuk menaruh gadget maupun dompet.\n4. Kolom tambahan pada bagian depan tas bisa digunakan untuk menyimpan berbagai kelengkapan barang tambahan Anda.\n\n\nFitur :\n- Tas Sling Bag warna Biru Tua dan HItam\n- 18X06X33 cm PXLXT ( Tinggi sampai bahan tambahan atas )\n- Tas selempang punggung,\n- Busa punggung yang empuk,\n- 1 slot dalam dengan resleting\n- 1 kolom tamabahan dibagian depan\n- Design Modismembuat penampihan sehari-hari semkain stylish\n- Jika kamu suka dengan produk kami jangan lupa review dan berikan bintang 5 kepada kami, itu sangat membantu kami untuk menghadirkan pilihan tas menarik, berkualitas serta ekonomis.\n\n\nJIKA HUJAN DERAS ATAU BADAI ADA KEMUNGKINAN REMBAS MELALUI RESLETING",
+      "imageUrl": "941114686df93f4dde4fb4cda6cc1dba.jpg",
+      "createdAt": "2021-02-27T08:53:33.141Z",
+      "updatedAt": "2021-02-27T08:53:33.141Z",
+      "__v": 0
+    },
+    {
+      "price": 300160,
+      "goodsSold": 0,
+      "_id": "6041efe9effa141ea06952b4",
+      "name": "KAVVI HAZEL MULES",
+      "category": {
+        "_id": "6041e493e558050818504f2f",
+        "name": "Flat Wanita",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "604dce51b211091494072c3a",
+        "name": "Ukuran - KAVVI HAZEL MULES",
+        "option": [
+          {
+            "_id": "604dce51b211091494072c3b",
+            "name": "35",
+            "stock": 10
+          },
+          {
+            "_id": "604dce51b211091494072c3c",
+            "name": "36",
+            "stock": 10
+          },
+          {
+            "_id": "604dce51b211091494072c3d",
+            "name": "37",
+            "stock": 10
+          },
+          {
+            "_id": "604dce51b211091494072c3e",
+            "name": "38",
+            "stock": 10
+          },
+          {
+            "_id": "604dce51b211091494072c3f",
+            "name": "39",
+            "stock": 10
+          },
+          {
+            "_id": "604dce51b211091494072c40",
+            "name": "40",
+            "stock": 10
+          }
+        ],
+        "createdAt": "2021-03-14T08:50:25.875Z",
+        "updatedAt": "2021-03-14T08:50:25.875Z",
+        "__v": 0
+      },
+      "description": "TNC PENUKARAN\n1. Untuk penukaran size di model yang sama, ongkir di tangung customer, hanya bisa exchange jika kita tersedia size. ( tidak berlaku untuk produk PO )\n2. Exchange setelah kita terima barang\n3. Barang akan di check terdahulu, packaging dan barang tidak boleh terpakai, kalau ada cacat kita ada hak untuk reject exchange.\n4. Tidak boleh exchange ke model yang berbeda.\n5. Untuk exchange tolong hubungi CS kita di LINE : @kavvi•shoes\n6. Untuk sepatu promo , tidak bisa ditukar, tukar size dan dikembalikan\n\nTNC PERBAIKAN\n1.Masa berlaku untuk perbaikan hanya 1 bulan dari tanggal pembelian Jika lewat dari waktu yang kita tentukan akan dikenakan biaya tambahan\n2. untuk perbaikan dan ongkir ditanggung oleh pembeli.\n3.biaya perbaikan tergantung kerusakan sepatunya (tidak semua kerusakan kita bisa perbaiki).",
+      "imageUrl": "d757db961219704eb655d4e26d79acfc.jpg",
+      "createdAt": "2021-03-03T08:53:33.141Z",
+      "updatedAt": "2021-03-03T08:53:33.141Z",
+      "__v": 0
+    },
+    {
+      "price": 90000,
+      "goodsSold": 0,
+      "_id": "6041e8fe4960db09144ca2a9",
+      "name": "Abon Sapi Asli - Manis",
+      "category": {
+        "_id": "6041e482e558050818504f2e",
+        "name": "Makanan Kering",
+        "__v": 0
+      },
+      "variant": {
+        "_id": "604dc2b762dc579e11f87ee8",
+        "name": "Quantitas - Abon Sapi Asli - Manis",
+        "option": [
+          {
+            "_id": "6041e50fe558050818504f38",
+            "name": "1 KG",
+            "stock": 10
+          },
+          {
+            "_id": "6041e50fe558050818504f39",
+            "name": "2 KG",
+            "stock": 10
+          },
+          {
+            "_id": "6041e50fe558050818504f40",
+            "name": "25 KG",
+            "stock": 10
+          }
+        ],
+        "createdAt": "2021-03-10T07:24:04.662Z",
+        "updatedAt": "2021-03-10T07:24:04.662Z",
+        "__v": 0
+      },
+      "description": "Sudah di konsumsi di dalam negeri dan sudah banyak dibawa ke luar negeri !!! mulai dari Mekkah, Boston, Korea, China, Amerika Serikat, Canada, Australia, Thailand, Filipina, Jepang, dll .. Warga Indonesia dan Luar Negeri, semua suka ABON SAPI JUARA !\n\nKAMI JUGA SIAP MENJADI SUPPLIER PRODUK ABON UNTUK TOKO / SUPERMARKET ANDA (yang tidak diragukan lagi kualitasnya) ! Yang mau membuka usaha yang ada hubungan dengan Abon Sapi, bisa langsung menghubungi kami !! Kami siap selalu.\n\nJangan pernah ragu dan langsung beli abon sapi hanya di ABON JUARA !!!\n\nKETERANGAN : 1 PACK BERAT NETT 250GRAM\n\n\n\n1. HALAL !! (ada kode produksi PIRT)\n\n2. Renyah, Gurih (krenyes2..^^) dengan packing yang baik dan rapat (kedap)\n\n3. Hanya ada 2 rasa yaitu MANIS & PEDAS\n\n4. Produksi sendiri dan PASTI selalu baru\n\n5. Asli daging sapi dengan rempah2nya (saya berani jamin 200%) !!\n\n6. Belum ada dimana2\n\n7. harga terjangkau hanya 90.000 / pack\n\n8. tahan 3 - 8 bulan (setelah kemasan dibuka, harap di kemas yang rapat di dalam toples / tupperware agar tetap gurih)\n\n9. cocok untuk yang hidupnya serba cepat, kurang waktu, bingung mau makan apa, sangat PRAKTIS, dan dapat dibawa saat berpergian dan nge-kost.\n\n10.kamu kamu kamu semua harus segera coba.. ^^ rugi loo kalo gak pernah coba, TOP bangetttt deh... =DD\n\n11. yang mau order langsung ke saya boleh, hubungi saja wa saya di 0856.918.55899 Merissa (direct).\n\n12. Cocok untuk lauk di masa PSBB, Sahur dan Berbuka Puasa (Simple) ..\n\n13. Banyak Anak - Anak, Cucu - Cucu, dan Orang Tua yang menyukai abon ini \"'\n\nYuk yuk di lihat dulu review dan ulasan nya, lalu tekan tombol beli, dan barang segera dan siap untuk di antar ke tempat tujuan !!\n\nCepat dan Tepat adalah nilai kualitas toko kami !!!!\n\n(BERAT SUDAH TERMASUK PACKING KHUSUS DAN BARANG TDK AKAN REMUK / RUSAK)",
+      "imageUrl": "5f4bac8b78441208299fb7e2ad3471f2.jpg",
+      "createdAt": "2021-02-26T08:53:33.141Z",
+      "updatedAt": "2021-02-26T08:53:33.141Z",
+      "__v": 0
     }
   ],
-  "count": 2
+  "count": 9
 }
