@@ -2,59 +2,266 @@
   "message": "succes",
   "data": [
     {
-      "_id": "600b352159630e1f54ee8a8c",
-      "name": "Ukuran",
+      "_id": "6041e50fe558050818504f31",
+      "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
       "option": [
         {
-          "_id": "600b352159630e1f54ee8a8d",
-          "name": "XL",
-          "stock": -26
+          "_id": "6041e50fe558050818504f32",
+          "name": "1 KG",
+          "stock": 4
         },
         {
-          "_id": "600b352159630e1f54ee8a8e",
-          "name": "L",
-          "stock": -28
+          "_id": "6041e50fe558050818504f33",
+          "name": "2 KG",
+          "stock": 4
         },
         {
-          "_id": "600b352159630e1f54ee8a8f",
-          "name": "M",
-          "stock": -28
-        },
-        {
-          "_id": "600b352159630e1f54ee8a90",
-          "name": "S",
-          "stock": -5
+          "_id": "6041e50fe558050818504f34",
+          "name": "25 KG",
+          "stock": 10
         }
       ],
+      "createdAt": "2021-03-10T07:24:04.662Z",
+      "updatedAt": "2021-03-14T08:59:50.324Z",
       "__v": 0
     },
     {
-      "_id": "600b357d59630e1f54ee8a91",
-      "name": "Warna",
+      "_id": "604dc22662dc579e11f87ee7",
+      "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
       "option": [
         {
-          "_id": "600b357d59630e1f54ee8a92",
-          "name": "Merah",
-          "stock": -14
+          "_id": "6041e50fe558050818504f35",
+          "name": "1 KG",
+          "stock": 8
         },
         {
-          "_id": "600b357d59630e1f54ee8a93",
-          "name": "Hijau",
-          "stock": -34
+          "_id": "6041e50fe558050818504f36",
+          "name": "2 KG",
+          "stock": 4
         },
         {
-          "_id": "600b357d59630e1f54ee8a94",
-          "name": "Kuning",
-          "stock": 10
-        },
-        {
-          "_id": "600b357d59630e1f54ee8a95",
-          "name": "Biru",
+          "_id": "6041e50fe558050818504f37",
+          "name": "25 KG",
           "stock": 10
         }
       ],
+      "createdAt": "2021-03-10T07:24:04.662Z",
+      "updatedAt": "2021-03-14T08:59:50.330Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dc2b762dc579e11f87ee8",
+      "name": "Quantitas - Abon Sapi Asli - Manis",
+      "option": [
+        {
+          "_id": "6041e50fe558050818504f38",
+          "name": "1 KG",
+          "stock": 10
+        },
+        {
+          "_id": "6041e50fe558050818504f39",
+          "name": "2 KG",
+          "stock": 10
+        },
+        {
+          "_id": "6041e50fe558050818504f40",
+          "name": "25 KG",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-10T07:24:04.662Z",
+      "updatedAt": "2021-03-10T07:24:04.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dc32062dc579e11f87ee9",
+      "name": "Warna - Navy Club Tas Selempang Travel",
+      "option": [
+        {
+          "_id": "6041ece0effa141ea06952a6",
+          "name": "Hitam",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952a7",
+          "name": "Coklat",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952a8",
+          "name": "Putih",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-11T07:24:04.662Z",
+      "updatedAt": "2021-03-11T07:24:04.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dc36162dc579e11f87eea",
+      "name": "Warna - Tas Pinggang Dengan Tempat Botol Tactical Army B321",
+      "option": [
+        {
+          "_id": "6041ece0effa141ea06952a9",
+          "name": "Hitam",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b1",
+          "name": "Coklat",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b2",
+          "name": "Putih",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-11T07:24:04.662Z",
+      "updatedAt": "2021-03-11T07:24:04.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dc39662dc579e11f87eeb",
+      "name": "Warna - Tas Selempang Pria Kulit Sling Bag kulit USB Port Tas Selempang Bahu01",
+      "option": [
+        {
+          "_id": "6041ece0effa141ea06952b3",
+          "name": "Hitam",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b4",
+          "name": "Coklat",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b5",
+          "name": "Putih",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-11T07:24:04.662Z",
+      "updatedAt": "2021-03-11T07:24:04.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dc3d962dc579e11f87eec",
+      "name": "Ukuran - Sepatu Wanita Tory Burch Kira Cap toe",
+      "option": [
+        {
+          "_id": "6041eef4effa141ea06952ad",
+          "name": "35",
+          "stock": 10
+        },
+        {
+          "_id": "6041eef4effa141ea06952ae",
+          "name": "36",
+          "stock": 10
+        },
+        {
+          "_id": "6041eef4effa141ea06952af",
+          "name": "37",
+          "stock": 10
+        },
+        {
+          "_id": "6041eef4effa141ea06952c0",
+          "name": "38",
+          "stock": 10
+        },
+        {
+          "_id": "6041eef4effa141ea06952c1",
+          "name": "39",
+          "stock": 10
+        },
+        {
+          "_id": "6041eef4effa141ea06952c2",
+          "name": "40",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-12T07:24:04.662Z",
+      "updatedAt": "2021-03-12T07:24:04.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dce51b211091494072c3a",
+      "name": "Ukuran - KAVVI HAZEL MULES",
+      "option": [
+        {
+          "_id": "604dce51b211091494072c3b",
+          "name": "35",
+          "stock": 10
+        },
+        {
+          "_id": "604dce51b211091494072c3c",
+          "name": "36",
+          "stock": 10
+        },
+        {
+          "_id": "604dce51b211091494072c3d",
+          "name": "37",
+          "stock": 10
+        },
+        {
+          "_id": "604dce51b211091494072c3e",
+          "name": "38",
+          "stock": 10
+        },
+        {
+          "_id": "604dce51b211091494072c3f",
+          "name": "39",
+          "stock": 10
+        },
+        {
+          "_id": "604dce51b211091494072c40",
+          "name": "40",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-14T08:50:25.875Z",
+      "updatedAt": "2021-03-14T08:50:25.875Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dce85b211091494072c41",
+      "name": "Ukuran - Spesial Offer Lilyshoes Sunter - Real Pict Sepatu Dalleya Wanita",
+      "option": [
+        {
+          "_id": "604dce85b211091494072c42",
+          "name": "35",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c43",
+          "name": "36",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c44",
+          "name": "37",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c45",
+          "name": "38",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c46",
+          "name": "39",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c47",
+          "name": "40",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-14T08:51:17.069Z",
+      "updatedAt": "2021-03-14T08:51:17.069Z",
       "__v": 0
     }
   ],
-  "count": 2
+  "count": 9
 }
