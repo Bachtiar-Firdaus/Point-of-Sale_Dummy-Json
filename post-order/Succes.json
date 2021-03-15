@@ -1,17 +1,63 @@
 {
   "message": "succes",
   "data": {
+    "_id": "604f65223f57f919789f11fd",
+    "fullName": "Bachtiar Firdaus",
     "orders": [
-      "600478addce2d122c8efb5e5",
-      "600478addce2d122c8efb5e5",
-      "600478addce2d122c8efb5e5"
+      {
+        "_id": "604f65223f57f919789f11ff",
+        "product": "Rempeyek Peyek Nyai Kacang",
+        "categoryName": "Makanan Kering",
+        "variantName": "Quantitas - Rempeyek Peyek Nyai Kacang",
+        "variantOption": "1 KG",
+        "qty": 1,
+        "discount": "30 %",
+        "price": 28000,
+        "totalDiscount": 8400,
+        "subTotalBelanja": 19600
+      },
+      {
+        "_id": "604f65223f57f919789f1200",
+        "product": "Rempeyek Peyek Nyai Kacang",
+        "categoryName": "Makanan Kering",
+        "variantName": "Quantitas - Rempeyek Peyek Nyai Kacang",
+        "variantOption": "2 KG",
+        "qty": 1,
+        "discount": "30 %",
+        "price": 28000,
+        "totalDiscount": 8400,
+        "subTotalBelanja": 19600
+      },
+      {
+        "_id": "604f65223f57f919789f1201",
+        "product": "Roasted Mix Sunflower Pumpkin Seeds",
+        "categoryName": "Makanan Kering",
+        "variantName": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+        "variantOption": "2 KG",
+        "qty": 1,
+        "discount": "30 %",
+        "price": 36000,
+        "totalDiscount": 10800,
+        "subTotalBelanja": 25200
+      },
+      {
+        "_id": "604f65223f57f919789f1202",
+        "product": "Roasted Mix Sunflower Pumpkin Seeds",
+        "categoryName": "Makanan Kering",
+        "variantName": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+        "variantOption": "1 KG",
+        "qty": 1,
+        "discount": "30 %",
+        "price": 36000,
+        "totalDiscount": 10800,
+        "subTotalBelanja": 25200
+      }
     ],
-    "_id": "602cc24bd4f641220cd2778b",
-    "nama_lengkap": "Bachtiar Firdaus",
-    "amount": 1680000,
-    "email": "rluciver@aol.com",
-    "user": "600eb4865efaee17c0052446",
-    "order_number": 324,
+    "amount": 89600,
+    "email": "id.bachtiar.firdaus@gmail.com",
+    "user": "6041df708b0b1631dc4d6920",
+    "date": "2021-03-15",
+    "orderNumber": 94,
     "__v": 0
   }
 }
