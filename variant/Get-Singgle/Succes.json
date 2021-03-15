@@ -1,30 +1,27 @@
 {
   "message": "succes",
   "data": {
-    "_id": "600b357d59630e1f54ee8a91",
-    "name": "Warna",
+    "_id": "6041e50fe558050818504f31",
+    "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
     "option": [
       {
-        "_id": "600b357d59630e1f54ee8a92",
-        "name": "Merah",
-        "stock": -14
+        "_id": "6041e50fe558050818504f32",
+        "name": "1 KG",
+        "stock": 4
       },
       {
-        "_id": "600b357d59630e1f54ee8a93",
-        "name": "Hijau",
-        "stock": -34
+        "_id": "6041e50fe558050818504f33",
+        "name": "2 KG",
+        "stock": 4
       },
       {
-        "_id": "600b357d59630e1f54ee8a94",
-        "name": "Kuning",
-        "stock": 10
-      },
-      {
-        "_id": "600b357d59630e1f54ee8a95",
-        "name": "Biru",
+        "_id": "6041e50fe558050818504f34",
+        "name": "25 KG",
         "stock": 10
       }
     ],
+    "createdAt": "2021-03-10T07:24:04.662Z",
+    "updatedAt": "2021-03-14T08:59:50.324Z",
     "__v": 0
   }
 }
