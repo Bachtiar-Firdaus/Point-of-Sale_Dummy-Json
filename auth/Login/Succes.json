@@ -2,10 +2,10 @@
   "message": "logged in successfully",
   "user": {
     "role": "user",
-    "_id": "602965aee17af612182ccc57",
-    "full_name": "Bachtiar Firdaus",
-    "email": "asasa@aol.com",
-    "customer_id": 12
+    "_id": "604f09c24156ac0022c0a2b7",
+    "fullName": "Elfin Sanjaya",
+    "email": "id.elfin.sanjaya@gmail.com",
+    "customerId": 5
   },
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsIl9pZCI6IjYwMjk2NWFlZTE3YWY2MTIxODJjY2M1NyIsImZ1bGxfbmFtZSI6IkJhY2h0aWFyIEZpcmRhdXMiLCJlbWFpbCI6ImFzYXNhQGFvbC5jb20iLCJjdXN0b21lcl9pZCI6MTIsImlhdCI6MTYxMzMyNzA4MH0.6Q69oiDQldPn3oQBGM-pUIMice0Kn8-2R4tQEVMJ9ls"
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsIl9pZCI6IjYwNGYwOWMyNDE1NmFjMDAyMmMwYTJiNyIsImZ1bGxOYW1lIjoiRWxmaW4gU2FuamF5YSIsImVtYWlsIjoiaWQuZWxmaW4uc2FuamF5YUBnbWFpbC5jb20iLCJjdXN0b21lcklkIjo1LCJpYXQiOjE2MTU3OTI4MjJ9.k6nOCCQRX8o_MWcYqjG6C0xNjJQyC6QQ4JHzNuFHeSg"
 }
