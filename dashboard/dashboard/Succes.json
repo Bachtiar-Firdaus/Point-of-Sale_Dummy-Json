@@ -1,101 +1,126 @@
 {
   "message": "succes",
-  "data_sigma": {
-    "sigmaTodaysIncome": 840000,
-    "sigmaWeeklyIncome": 1512000,
-    "sigmaMonthlyIncome": 1512000
+  "dataSigma": {
+    "sigmaTodaysIncome": 179200,
+    "sigmaWeeklyIncome": 179200,
+    "sigmaMonthlyIncome": 616000
   },
-  "data_user": [
-    {
-      "name": "daus",
-      "status": "Active"
-    },
+  "dataUser": [
     {
       "name": "Bachtiar Firdaus",
       "status": "Active"
+    },
+    {
+      "name": "Rahmat Hidayatullah",
+      "status": "Active"
+    },
+    {
+      "name": "Rahmat Hidayatullah",
+      "status": "Active"
     }
   ],
-  "data_best_seller": [
+  "dataBestSeller": [
     {
-      "price": 120000,
-      "goods_sold": 43,
-      "_id": "6034a51d7e4a080022dfcabf",
-      "name": "StealSeries",
+      "price": 28000,
+      "goodsSold": 16,
+      "_id": "6041e5c4e558050818504f35",
+      "name": "Rempeyek Peyek Nyai Kacang",
       "category": {
-        "_id": "6034a37b7e4a080022dfcab9",
-        "name": "StealSeries",
+        "_id": "6041e482e558050818504f2e",
+        "name": "Makanan Kering",
         "__v": 0
       },
       "variant": {
-        "_id": "6034a4ab7e4a080022dfcabc",
-        "name": "Model",
+        "_id": "6041e50fe558050818504f31",
+        "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
         "option": [
           {
-            "_id": "6034a4ab7e4a080022dfcabd",
-            "name": "Panjang",
-            "stock": 10
+            "_id": "6041e50fe558050818504f32",
+            "name": "1 KG",
+            "stock": 2
           },
           {
-            "_id": "6034a4ab7e4a080022dfcabe",
-            "name": "Pendek",
-            "stock": 5
+            "_id": "6041e50fe558050818504f33",
+            "name": "2 KG",
+            "stock": 2
+          },
+          {
+            "_id": "6041e50fe558050818504f34",
+            "name": "25 KG",
+            "stock": 10
           }
         ],
+        "createdAt": "2021-03-10T07:24:04.662Z",
+        "updatedAt": "2021-03-15T13:46:12.773Z",
         "__v": 0
       },
-      "description": "Handler",
-      "createdAt": "2021-02-23T06:47:57.773Z",
-      "updatedAt": "2021-02-26T07:59:54.824Z",
+      "description": "MOHON BACA KETENTUAN PENGIRIMAN SEBELUM ORDER YA\n\nPeyek Nyai Kacang di dalam toples ukuran 1500 ml.\n200-250 gr\n\nPENGIRIMAN\ndisarankan menggunakan kurir gojek/grab, dikarenakan barang yg mudah hancur/remuk.\n\nKami tidak bertanggung jawab atas kerusakkan peyek dalam pengiriman kurir, karena kami akan memastikan packing yg aman dan peyek yang utuh sebelum pengiriman.\n\nPERHATIAN JIKA INGIN PEYEK DITERIMA UTUH!!\nWajib memakai grab/gosend karena pengiriman melalui JNE / J&T / Ninja Xpress beresiko remuk walau kami sudah packing aman.\n\nKENAPA PEYEK NYAI BEDA DARI PEYEK2 LAINNYA?\n- HALAL\n- Minyak yg dipakai berkualitas & selalu baru/fresh (SEHAT)\n- Tidak pakai bahan pengawet (SEHAT)\n- Rasa dijamin sangat enak!!!\n- Bahan2 berkualitas premium!\n- Topping tidak pelit (kacangnya premium & banyak)\n\nBarang yg aktif di etalase kami selalu ready, silahkan langsung dipesan. Tahan hingga 2 minggu jika masih tersegel.",
+      "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+      "createdAt": "2021-02-24T08:53:33.141Z",
+      "updatedAt": "2021-03-15T13:46:13.002Z",
       "__v": 0,
       "discount": {
         "type": "%",
-        "value": 20,
+        "value": 30,
         "status": "y",
-        "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
-        "_id": "6038a90187ab9d00223b1616",
-        "name": "Discount Valentine",
-        "date": "2021-01-31T00:00:00.000Z",
-        "createdAt": "2021-02-26T07:53:38.003Z",
-        "updatedAt": "2021-02-26T07:54:44.177Z",
+        "product": ["6041e5c4e558050818504f35", "6041e728e558050818504f36"],
+        "_id": "604c7165f178603884324d69",
+        "name": "Discount Ulang Tahun",
+        "date": "2021-01-30T17:00:00.000Z",
+        "createdAt": "2021-03-13T08:01:41.866Z",
+        "updatedAt": "2021-03-14T08:56:47.634Z",
         "__v": 0
       }
     },
     {
-      "price": 120000,
-      "goods_sold": 11,
-      "_id": "6034a5de7e4a080022dfcac1",
-      "name": "Baju Kemeja",
+      "price": 36000,
+      "goodsSold": 12,
+      "_id": "6041e728e558050818504f36",
+      "name": "Roasted Mix Sunflower Pumpkin Seeds",
       "category": {
-        "_id": "6034a59f7e4a080022dfcac0",
-        "name": "Singlet",
+        "_id": "6041e482e558050818504f2e",
+        "name": "Makanan Kering",
         "__v": 0
       },
       "variant": {
-        "_id": "6034a3967e4a080022dfcaba",
-        "name": "Size",
+        "_id": "604dc22662dc579e11f87ee7",
+        "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
         "option": [
           {
-            "_id": "6034a3967e4a080022dfcabb",
-            "name": "XL",
-            "stock": -28
+            "_id": "6041e50fe558050818504f35",
+            "name": "1 KG",
+            "stock": 6
+          },
+          {
+            "_id": "6041e50fe558050818504f36",
+            "name": "2 KG",
+            "stock": 2
+          },
+          {
+            "_id": "6041e50fe558050818504f37",
+            "name": "25 KG",
+            "stock": 10
           }
         ],
+        "createdAt": "2021-03-10T07:24:04.662Z",
+        "updatedAt": "2021-03-15T13:46:12.827Z",
         "__v": 0
       },
-      "description": "Batik",
-      "createdAt": "2021-02-23T06:51:10.742Z",
-      "updatedAt": "2021-02-26T07:59:54.833Z",
+      "description": "Now Available Roasted Mix Seeds ( Panggang )\nPumpkin and Sunflower",
+      "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+      "createdAt": "2021-02-25T08:53:33.141Z",
+      "updatedAt": "2021-03-15T13:46:13.221Z",
       "__v": 0,
       "discount": {
         "type": "%",
-        "value": 20,
+        "value": 30,
         "status": "y",
-        "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
-        "_id": "6038a90187ab9d00223b1616",
-        "name": "Discount Valentine",
-        "date": "2021-01-31T00:00:00.000Z",
-        "createdAt": "2021-02-26T07:53:38.003Z",
-        "updatedAt": "2021-02-26T07:54:44.177Z",
+        "product": ["6041e5c4e558050818504f35", "6041e728e558050818504f36"],
+        "_id": "604c7165f178603884324d69",
+        "name": "Discount Ulang Tahun",
+        "date": "2021-01-30T17:00:00.000Z",
+        "createdAt": "2021-03-13T08:01:41.866Z",
+        "updatedAt": "2021-03-14T08:56:47.634Z",
         "__v": 0
       }
     }
