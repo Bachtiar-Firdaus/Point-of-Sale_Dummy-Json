@@ -1,30 +1,58 @@
 {
   "message": "succes",
   "data": {
-    "price": 99999,
-    "goods_sold": 0,
-    "_id": "6038ae9987ab9d00223b161c",
-    "name": "Kaos Bolong",
+    "price": 26314000,
+    "goodsSold": 0,
+    "_id": "604f02504156ac0022c0a2b6",
+    "name": "Real Pict Sepatu Dalleya Wanita",
     "category": {
-      "_id": "6034a59f7e4a080022dfcac0",
-      "name": "Singlet",
+      "_id": "6041e493e558050818504f2f",
+      "name": "Flat Wanita",
       "__v": 0
     },
     "variant": {
-      "_id": "6034a3967e4a080022dfcaba",
-      "name": "Size",
+      "_id": "604dce85b211091494072c41",
+      "name": "Ukuran - Spesial Offer Lilyshoes Sunter - Real Pict Sepatu Dalleya Wanita",
       "option": [
         {
-          "_id": "6034a3967e4a080022dfcabb",
-          "name": "XL",
-          "stock": -28
+          "_id": "604dce85b211091494072c42",
+          "name": "35",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c43",
+          "name": "36",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c44",
+          "name": "37",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c45",
+          "name": "38",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c46",
+          "name": "39",
+          "stock": 10
+        },
+        {
+          "_id": "604dce85b211091494072c47",
+          "name": "40",
+          "stock": 10
         }
       ],
+      "createdAt": "2021-03-14T08:51:17.069Z",
+      "updatedAt": "2021-03-14T08:51:17.069Z",
       "__v": 0
     },
-    "description": "Daleman",
-    "createdAt": "2021-02-26T08:17:29.317Z",
-    "updatedAt": "2021-02-26T08:20:45.343Z",
-    "__v": 0
+    "description": "all photo REALPICT, baik OUTDOOR/INDOOR atau BACKGROUND putih. Mohon untuk TIDAK\\nuntuk disalahgunakan selain untung kepentingan RESELLER dari kami..\\n\\nsemua produk kami adalah HANDMADE, yang di PRODUKSI sendiri dengan BRAND DALLEYA\\nCOLLECTION\\n\\nSTOCK tersedia bs lgsg d order,, bila kosong, silahkan cek bbrp hr k dpn,\\nmungkin akan restock..\\n\\nmenginformasikan segera untuk ganti barang..\\n\\nORDER YG sdh msk TIDAK bs d cancel/ganti sepatu/ ganti sz dll.. smua d krm\\nsesuai PRINT OUT dr MARKET PLACA\\n\\ntidak melayani order TIDAK SESUAI KETENTUAN MARKET PLACE\\n\\nsmua barang telah melalui proses checking sblm pengiriman\\n\\nNO RETURN, kecuali ada kesalahan pengiriman barang dr kami, dengan melampirkan\\nBUKTI berupa foto barang + foto kertas orderan di sisi depan paket anda.\\n\\nmohon segera lakukan konfirmasi terima.\\n\\nOpen order senin - sabtu 09.00-21.00 wib.. minggu libur.. hari libur nasional\\ntetap buka, kecuali ada pemberitahuan\\n\\n\\n#sepatuwanita\\n#sepatusport\\n#sepatumurah\\n#sepatusendalterlaris\\n#sepatuolahraga\\n#sepatuonlineterpercaya\\n#sepatuberkualitas\\n#sepatusendallaris\\n#sepatukerja\\n#sendalsandalcasual\\n#sepatusneakers\\n#sepatusimple\\n#dalleyacollection\\n\\n#sepatusneakers\\n#sepatusandal\\n#sneakerswanita#sepatuwanita\\n#sepatutrendy\\n#sepatumurah\\n#sepatupromo\\n#sepatudalleya\\n#sepatuonlineterpercaya\\n#sepatuberkualitas\\n#sepatusendal\\n#pantofelkerja\\n#sepatukerja\\n#sepatuhaktinggi\\n#sepatusimple\\n#dalleyacollection\\n\\nStok Update setiap hari",
+    "createdAt": "2021-03-15T06:44:32.060Z",
+    "updatedAt": "2021-03-15T06:48:52.535Z",
+    "__v": 0,
+    "imageUrl": "f6d4f4e06ff1ad12710137c7f7b258c1.jpg"
   }
 }
