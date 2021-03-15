@@ -1,36 +1,41 @@
 {
   "message": "succes",
   "statistics": "product",
-  "indicator": "Baju Kemeja",
+  "indicator": "Rempeyek Peyek Nyai Kacang",
   "data": [
     {
       "day": "Monday",
-      "date": "2021-02-22",
-      "value": 0
+      "date": "2021-03-15",
+      "value": 78400
     },
     {
       "day": "Tuesday",
-      "date": "2021-02-23",
-      "value": 120000
+      "date": "2021-03-16",
+      "value": 0
     },
     {
       "day": "Wednesday",
-      "date": "2021-02-24",
+      "date": "2021-03-17",
       "value": 0
     },
     {
       "day": "Thursday",
-      "date": "2021-02-25",
+      "date": "2021-03-18",
       "value": 0
     },
     {
       "day": "Friday",
-      "date": "2021-02-26",
-      "value": 96000
+      "date": "2021-03-19",
+      "value": 0
     },
     {
       "day": "Saturday",
-      "date": "2021-02-27",
+      "date": "2021-03-20",
+      "value": 0
+    },
+    {
+      "day": "Sunday",
+      "date": "2021-03-21",
       "value": 0
     }
   ]
