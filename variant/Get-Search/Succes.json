@@ -2,32 +2,77 @@
   "message": "succes",
   "data": [
     {
-      "_id": "600b357d59630e1f54ee8a91",
-      "name": "Warna",
+      "_id": "604dc32062dc579e11f87ee9",
+      "name": "Warna - Navy Club Tas Selempang Travel",
       "option": [
         {
-          "_id": "600b357d59630e1f54ee8a92",
-          "name": "Merah",
-          "stock": -14
-        },
-        {
-          "_id": "600b357d59630e1f54ee8a93",
-          "name": "Hijau",
-          "stock": -34
-        },
-        {
-          "_id": "600b357d59630e1f54ee8a94",
-          "name": "Kuning",
+          "_id": "6041ece0effa141ea06952a6",
+          "name": "Hitam",
           "stock": 10
         },
         {
-          "_id": "600b357d59630e1f54ee8a95",
-          "name": "Biru",
+          "_id": "6041ece0effa141ea06952a7",
+          "name": "Coklat",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952a8",
+          "name": "Putih",
           "stock": 10
         }
       ],
+      "createdAt": "2021-03-11T07:24:04.662Z",
+      "updatedAt": "2021-03-11T07:24:04.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dc36162dc579e11f87eea",
+      "name": "Warna - Tas Pinggang Dengan Tempat Botol Tactical Army B321",
+      "option": [
+        {
+          "_id": "6041ece0effa141ea06952a9",
+          "name": "Hitam",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b1",
+          "name": "Coklat",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b2",
+          "name": "Putih",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-11T07:24:04.662Z",
+      "updatedAt": "2021-03-11T07:24:04.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "604dc39662dc579e11f87eeb",
+      "name": "Warna - Tas Selempang Pria Kulit Sling Bag kulit USB Port Tas Selempang Bahu01",
+      "option": [
+        {
+          "_id": "6041ece0effa141ea06952b3",
+          "name": "Hitam",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b4",
+          "name": "Coklat",
+          "stock": 10
+        },
+        {
+          "_id": "6041ece0effa141ea06952b5",
+          "name": "Putih",
+          "stock": 10
+        }
+      ],
+      "createdAt": "2021-03-11T07:24:04.662Z",
+      "updatedAt": "2021-03-11T07:24:04.662Z",
       "__v": 0
     }
   ],
-  "count": 1
+  "count": 3
 }
