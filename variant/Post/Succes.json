@@ -1,20 +1,42 @@
 {
   "message": "succes",
   "data": {
-    "_id": "602b5d7da3e9dd093847e667",
-    "name": "Model",
+    "_id": "604f17424156ac0022c0a2b9",
+    "name": "Ukuran - Spesial Offer ",
     "option": [
       {
-        "_id": "602b5d7da3e9dd093847e668",
-        "name": "Panjang",
+        "_id": "604f17424156ac0022c0a2ba",
+        "name": "35",
         "stock": 10
       },
       {
-        "_id": "602b5d7da3e9dd093847e669",
-        "name": "Pendek",
-        "stock": 5
+        "_id": "604f17424156ac0022c0a2bb",
+        "name": "36",
+        "stock": 10
+      },
+      {
+        "_id": "604f17424156ac0022c0a2bc",
+        "name": "37",
+        "stock": 10
+      },
+      {
+        "_id": "604f17424156ac0022c0a2bd",
+        "name": "38",
+        "stock": 10
+      },
+      {
+        "_id": "604f17424156ac0022c0a2be",
+        "name": "39",
+        "stock": 10
+      },
+      {
+        "_id": "604f17424156ac0022c0a2bf",
+        "name": "40",
+        "stock": 10
       }
     ],
+    "createdAt": "2021-03-15T08:13:54.246Z",
+    "updatedAt": "2021-03-15T08:13:54.246Z",
     "__v": 0
   }
 }
