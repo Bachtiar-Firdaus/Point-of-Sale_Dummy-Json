@@ -4,113 +4,146 @@
     {
       "discount": {
         "type": "%",
-        "value": 20,
-        "name": "Discount Valentine"
+        "value": 30,
+        "name": "Discount Ulang Tahun"
       },
       "variant": {
-        "name": "Panjang",
-        "option": "Model",
+        "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
+        "option": "1 KG",
         "stock": 10
       },
-      "price": 120000,
-      "product": [
-        {
-          "price": 120000,
-          "goods_sold": 37,
-          "_id": "6034a51d7e4a080022dfcabf",
-          "name": "StealSeries",
-          "category": "6034a37b7e4a080022dfcab9",
-          "variant": "6034a4ab7e4a080022dfcabc",
-          "description": "Handler",
-          "createdAt": "2021-02-23T06:47:57.773Z",
-          "updatedAt": "2021-02-26T07:54:44.088Z",
-          "__v": 0,
-          "discount": "6038a90187ab9d00223b1616"
-        }
-      ],
-      "_id": "6038a66c57ab76ab97f6780e",
-      "idVariantOption": "6034a4ab7e4a080022dfcabd",
-      "user": "6034a2dc7e4a080022dfcab7",
-      "categoryName": "StealSeries",
-      "createdAt": "2021-02-26T07:42:36.540Z",
-      "image_url": null,
-      "name": "StealSeries",
-      "qty": 3,
-      "updatedAt": "2021-02-26T07:54:54.094Z"
-    },
-    {
-      "discount": {
-        "type": "%",
-        "value": 20,
-        "name": "Discount Valentine"
+      "price": 28000,
+      "_id": "604f5faf57ab76ab971f69a1",
+      "idVariantOption": "6041e50fe558050818504f32",
+      "user": "6041df708b0b1631dc4d6920",
+      "categoryName": "Makanan Kering",
+      "createdAt": "2021-03-15T13:22:55.294Z",
+      "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+      "name": "Rempeyek Peyek Nyai Kacang",
+      "product": {
+        "price": 28000,
+        "goodsSold": 12,
+        "_id": "6041e5c4e558050818504f35",
+        "name": "Rempeyek Peyek Nyai Kacang",
+        "category": "6041e482e558050818504f2e",
+        "variant": "6041e50fe558050818504f31",
+        "description": "MOHON BACA KETENTUAN PENGIRIMAN SEBELUM ORDER YA\n\nPeyek Nyai Kacang di dalam toples ukuran 1500 ml.\n200-250 gr\n\nPENGIRIMAN\ndisarankan menggunakan kurir gojek/grab, dikarenakan barang yg mudah hancur/remuk.\n\nKami tidak bertanggung jawab atas kerusakkan peyek dalam pengiriman kurir, karena kami akan memastikan packing yg aman dan peyek yang utuh sebelum pengiriman.\n\nPERHATIAN JIKA INGIN PEYEK DITERIMA UTUH!!\nWajib memakai grab/gosend karena pengiriman melalui JNE / J&T / Ninja Xpress beresiko remuk walau kami sudah packing aman.\n\nKENAPA PEYEK NYAI BEDA DARI PEYEK2 LAINNYA?\n- HALAL\n- Minyak yg dipakai berkualitas & selalu baru/fresh (SEHAT)\n- Tidak pakai bahan pengawet (SEHAT)\n- Rasa dijamin sangat enak!!!\n- Bahan2 berkualitas premium!\n- Topping tidak pelit (kacangnya premium & banyak)\n\nBarang yg aktif di etalase kami selalu ready, silahkan langsung dipesan. Tahan hingga 2 minggu jika masih tersegel.",
+        "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+        "createdAt": "2021-02-24T08:53:33.141Z",
+        "updatedAt": "2021-03-14T08:59:50.310Z",
+        "__v": 0,
+        "discount": "604c7165f178603884324d69"
       },
-      "variant": {
-        "name": "Pendek",
-        "option": "Model",
-        "stock": 5
-      },
-      "price": 120000,
-      "product": [
-        {
-          "price": 120000,
-          "goods_sold": 37,
-          "_id": "6034a51d7e4a080022dfcabf",
-          "name": "StealSeries",
-          "category": "6034a37b7e4a080022dfcab9",
-          "variant": "6034a4ab7e4a080022dfcabc",
-          "description": "Handler",
-          "createdAt": "2021-02-23T06:47:57.773Z",
-          "updatedAt": "2021-02-26T07:54:44.088Z",
-          "__v": 0,
-          "discount": "6038a90187ab9d00223b1616"
-        }
-      ],
-      "_id": "6038a66c57ab76ab97f6780f",
-      "idVariantOption": "6034a4ab7e4a080022dfcabe",
-      "user": "6034a2dc7e4a080022dfcab7",
-      "categoryName": "StealSeries",
-      "createdAt": "2021-02-26T07:42:36.540Z",
-      "image_url": null,
-      "name": "StealSeries",
-      "qty": 3,
-      "updatedAt": "2021-02-26T07:54:54.094Z"
-    },
-    {
-      "discount": {
-        "type": "%",
-        "value": 20,
-        "name": "Discount Valentine"
-      },
-      "variant": {
-        "name": "Size",
-        "option": "XL",
-        "stock": 1
-      },
-      "price": 120000,
-      "product": [
-        {
-          "price": 120000,
-          "goods_sold": 10,
-          "_id": "6034a5de7e4a080022dfcac1",
-          "name": "Baju Kemeja",
-          "category": "6034a59f7e4a080022dfcac0",
-          "variant": "6034a3967e4a080022dfcaba",
-          "description": "Batik",
-          "createdAt": "2021-02-23T06:51:10.742Z",
-          "updatedAt": "2021-02-26T07:54:44.088Z",
-          "__v": 0,
-          "discount": "6038a90187ab9d00223b1616"
-        }
-      ],
-      "_id": "6038a66c57ab76ab97f67810",
-      "idVariantOption": "600b352159630e1f54ee8a90",
-      "user": "6034a2dc7e4a080022dfcab7",
-      "categoryName": "Singlet",
-      "createdAt": "2021-02-26T07:42:36.540Z",
-      "image_url": null,
-      "name": "Baju Kemeja",
       "qty": 1,
-      "updatedAt": "2021-02-26T07:54:54.094Z"
+      "updatedAt": "2021-03-15T13:22:55.294Z"
+    },
+    {
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "name": "Discount Ulang Tahun"
+      },
+      "variant": {
+        "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
+        "option": "2 KG",
+        "stock": 10
+      },
+      "price": 28000,
+      "_id": "604f5faf57ab76ab971f69a2",
+      "idVariantOption": "6041e50fe558050818504f33",
+      "user": "6041df708b0b1631dc4d6920",
+      "categoryName": "Makanan Kering",
+      "createdAt": "2021-03-15T13:22:55.294Z",
+      "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+      "name": "Rempeyek Peyek Nyai Kacang",
+      "product": {
+        "price": 28000,
+        "goodsSold": 12,
+        "_id": "6041e5c4e558050818504f35",
+        "name": "Rempeyek Peyek Nyai Kacang",
+        "category": "6041e482e558050818504f2e",
+        "variant": "6041e50fe558050818504f31",
+        "description": "MOHON BACA KETENTUAN PENGIRIMAN SEBELUM ORDER YA\n\nPeyek Nyai Kacang di dalam toples ukuran 1500 ml.\n200-250 gr\n\nPENGIRIMAN\ndisarankan menggunakan kurir gojek/grab, dikarenakan barang yg mudah hancur/remuk.\n\nKami tidak bertanggung jawab atas kerusakkan peyek dalam pengiriman kurir, karena kami akan memastikan packing yg aman dan peyek yang utuh sebelum pengiriman.\n\nPERHATIAN JIKA INGIN PEYEK DITERIMA UTUH!!\nWajib memakai grab/gosend karena pengiriman melalui JNE / J&T / Ninja Xpress beresiko remuk walau kami sudah packing aman.\n\nKENAPA PEYEK NYAI BEDA DARI PEYEK2 LAINNYA?\n- HALAL\n- Minyak yg dipakai berkualitas & selalu baru/fresh (SEHAT)\n- Tidak pakai bahan pengawet (SEHAT)\n- Rasa dijamin sangat enak!!!\n- Bahan2 berkualitas premium!\n- Topping tidak pelit (kacangnya premium & banyak)\n\nBarang yg aktif di etalase kami selalu ready, silahkan langsung dipesan. Tahan hingga 2 minggu jika masih tersegel.",
+        "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+        "createdAt": "2021-02-24T08:53:33.141Z",
+        "updatedAt": "2021-03-14T08:59:50.310Z",
+        "__v": 0,
+        "discount": "604c7165f178603884324d69"
+      },
+      "qty": 1,
+      "updatedAt": "2021-03-15T13:22:55.294Z"
+    },
+    {
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "name": "Discount Ulang Tahun"
+      },
+      "variant": {
+        "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+        "option": "2 KG",
+        "stock": 10
+      },
+      "price": 36000,
+      "_id": "604f5faf57ab76ab971f69a4",
+      "idVariantOption": "6041e50fe558050818504f36",
+      "user": "6041df708b0b1631dc4d6920",
+      "categoryName": "Makanan Kering",
+      "createdAt": "2021-03-15T13:22:55.294Z",
+      "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+      "name": "Roasted Mix Sunflower Pumpkin Seeds",
+      "product": {
+        "price": 36000,
+        "goodsSold": 8,
+        "_id": "6041e728e558050818504f36",
+        "name": "Roasted Mix Sunflower Pumpkin Seeds",
+        "category": "6041e482e558050818504f2e",
+        "variant": "604dc22662dc579e11f87ee7",
+        "description": "Now Available Roasted Mix Seeds ( Panggang )\nPumpkin and Sunflower",
+        "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+        "createdAt": "2021-02-25T08:53:33.141Z",
+        "updatedAt": "2021-03-14T08:59:50.305Z",
+        "__v": 0,
+        "discount": "604c7165f178603884324d69"
+      },
+      "qty": 1,
+      "updatedAt": "2021-03-15T13:22:55.294Z"
+    },
+    {
+      "discount": {
+        "type": "%",
+        "value": 30,
+        "name": "Discount Ulang Tahun"
+      },
+      "variant": {
+        "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+        "option": "1 KG",
+        "stock": 10
+      },
+      "price": 36000,
+      "_id": "604f5faf57ab76ab971f69a5",
+      "idVariantOption": "6041e50fe558050818504f35",
+      "user": "6041df708b0b1631dc4d6920",
+      "categoryName": "Makanan Kering",
+      "createdAt": "2021-03-15T13:22:55.294Z",
+      "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+      "name": "Roasted Mix Sunflower Pumpkin Seeds",
+      "product": {
+        "price": 36000,
+        "goodsSold": 8,
+        "_id": "6041e728e558050818504f36",
+        "name": "Roasted Mix Sunflower Pumpkin Seeds",
+        "category": "6041e482e558050818504f2e",
+        "variant": "604dc22662dc579e11f87ee7",
+        "description": "Now Available Roasted Mix Seeds ( Panggang )\nPumpkin and Sunflower",
+        "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+        "createdAt": "2021-02-25T08:53:33.141Z",
+        "updatedAt": "2021-03-14T08:59:50.305Z",
+        "__v": 0,
+        "discount": "604c7165f178603884324d69"
+      },
+      "qty": 1,
+      "updatedAt": "2021-03-15T13:22:55.294Z"
     }
   ]
 }
