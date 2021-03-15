@@ -2,43 +2,44 @@
   "message": "succes",
   "data": [
     {
-      "price": 120000,
-      "goods_sold": 11,
-      "_id": "6034a5de7e4a080022dfcac1",
-      "name": "Baju Kemeja",
+      "price": 90000,
+      "goodsSold": 0,
+      "_id": "6041e8fe4960db09144ca2a9",
+      "name": "Abon Sapi Asli - Manis",
       "category": {
-        "_id": "6034a59f7e4a080022dfcac0",
-        "name": "Singlet",
+        "_id": "6041e482e558050818504f2e",
+        "name": "Makanan Kering",
         "__v": 0
       },
       "variant": {
-        "_id": "6034a3967e4a080022dfcaba",
-        "name": "Size",
+        "_id": "604dc2b762dc579e11f87ee8",
+        "name": "Quantitas - Abon Sapi Asli - Manis",
         "option": [
           {
-            "_id": "6034a3967e4a080022dfcabb",
-            "name": "XL",
-            "stock": -28
+            "_id": "6041e50fe558050818504f38",
+            "name": "1 KG",
+            "stock": 10
+          },
+          {
+            "_id": "6041e50fe558050818504f39",
+            "name": "2 KG",
+            "stock": 10
+          },
+          {
+            "_id": "6041e50fe558050818504f40",
+            "name": "25 KG",
+            "stock": 10
           }
         ],
+        "createdAt": "2021-03-10T07:24:04.662Z",
+        "updatedAt": "2021-03-10T07:24:04.662Z",
         "__v": 0
       },
-      "description": "Batik",
-      "createdAt": "2021-02-23T06:51:10.742Z",
-      "updatedAt": "2021-02-26T07:59:54.833Z",
-      "__v": 0,
-      "discount": {
-        "type": "%",
-        "value": 20,
-        "status": "y",
-        "product": ["6034a51d7e4a080022dfcabf", "6034a5de7e4a080022dfcac1"],
-        "_id": "6038a90187ab9d00223b1616",
-        "name": "Discount Valentine",
-        "date": "2021-01-31T00:00:00.000Z",
-        "createdAt": "2021-02-26T07:53:38.003Z",
-        "updatedAt": "2021-02-26T07:54:44.177Z",
-        "__v": 0
-      }
+      "description": "Sudah di konsumsi di dalam negeri dan sudah banyak dibawa ke luar negeri !!! mulai dari Mekkah, Boston, Korea, China, Amerika Serikat, Canada, Australia, Thailand, Filipina, Jepang, dll .. Warga Indonesia dan Luar Negeri, semua suka ABON SAPI JUARA !\n\nKAMI JUGA SIAP MENJADI SUPPLIER PRODUK ABON UNTUK TOKO / SUPERMARKET ANDA (yang tidak diragukan lagi kualitasnya) ! Yang mau membuka usaha yang ada hubungan dengan Abon Sapi, bisa langsung menghubungi kami !! Kami siap selalu.\n\nJangan pernah ragu dan langsung beli abon sapi hanya di ABON JUARA !!!\n\nKETERANGAN : 1 PACK BERAT NETT 250GRAM\n\n\n\n1. HALAL !! (ada kode produksi PIRT)\n\n2. Renyah, Gurih (krenyes2..^^) dengan packing yang baik dan rapat (kedap)\n\n3. Hanya ada 2 rasa yaitu MANIS & PEDAS\n\n4. Produksi sendiri dan PASTI selalu baru\n\n5. Asli daging sapi dengan rempah2nya (saya berani jamin 200%) !!\n\n6. Belum ada dimana2\n\n7. harga terjangkau hanya 90.000 / pack\n\n8. tahan 3 - 8 bulan (setelah kemasan dibuka, harap di kemas yang rapat di dalam toples / tupperware agar tetap gurih)\n\n9. cocok untuk yang hidupnya serba cepat, kurang waktu, bingung mau makan apa, sangat PRAKTIS, dan dapat dibawa saat berpergian dan nge-kost.\n\n10.kamu kamu kamu semua harus segera coba.. ^^ rugi loo kalo gak pernah coba, TOP bangetttt deh... =DD\n\n11. yang mau order langsung ke saya boleh, hubungi saja wa saya di 0856.918.55899 Merissa (direct).\n\n12. Cocok untuk lauk di masa PSBB, Sahur dan Berbuka Puasa (Simple) ..\n\n13. Banyak Anak - Anak, Cucu - Cucu, dan Orang Tua yang menyukai abon ini \"'\n\nYuk yuk di lihat dulu review dan ulasan nya, lalu tekan tombol beli, dan barang segera dan siap untuk di antar ke tempat tujuan !!\n\nCepat dan Tepat adalah nilai kualitas toko kami !!!!\n\n(BERAT SUDAH TERMASUK PACKING KHUSUS DAN BARANG TDK AKAN REMUK / RUSAK)",
+      "imageUrl": "5f4bac8b78441208299fb7e2ad3471f2.jpg",
+      "createdAt": "2021-02-26T08:53:33.141Z",
+      "updatedAt": "2021-02-26T08:53:33.141Z",
+      "__v": 0
     }
   ],
   "count": 1
