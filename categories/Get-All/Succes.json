@@ -2,15 +2,20 @@
   "message": "succes",
   "data": [
     {
-      "_id": "6009a4eb24a15b0cfcd1a1af",
-      "name": "Outfit",
+      "_id": "6041e482e558050818504f2e",
+      "name": "Makanan Kering",
       "__v": 0
     },
     {
-      "_id": "600b361959630e1f54ee8a96",
-      "name": "Fashions",
+      "_id": "6041e493e558050818504f2f",
+      "name": "Flat Wanita",
+      "__v": 0
+    },
+    {
+      "_id": "6041e4a7e558050818504f30",
+      "name": "Tas Pria",
       "__v": 0
     }
   ],
-  "count": 2
+  "count": 3
 }
