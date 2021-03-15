@@ -1,7 +1,29 @@
 {
-  "name": "Model",
+  "name": "Ukuran - Spesial ",
   "option": [
-    { "name": "Panjang", "stock": 10 },
-    { "name": "Pendek", "stock": 5 }
+    {
+      "name": "35",
+      "stock": 100
+    },
+    {
+      "name": "36",
+      "stock": 100
+    },
+    {
+      "name": "37",
+      "stock": 100
+    },
+    {
+      "name": "38",
+      "stock": 100
+    },
+    {
+      "name": "39",
+      "stock": 100
+    },
+    {
+      "name": "40",
+      "stock": 100
+    }
   ]
 }
