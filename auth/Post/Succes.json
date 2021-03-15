@@ -3,11 +3,13 @@
   "data": {
     "role": "user",
     "token": [],
-    "_id": "6006abfddfc6831ae04abbbd",
-    "full_name": "Bachtiar Firdaus",
-    "email": "asasa@aol.com",
-    "password": "$2b$10$RBkLNvFIfy.nyxw3gC2zFecHlbJE9U5eZghXUslKKC/kc45qDtsWi",
-    "customer_id": 3,
+    "_id": "6041f64ecca926333c5c5e4c",
+    "fullName": "Ega Liyando",
+    "email": "id.ega.liyando@gmail.com",
+    "password": "$2b$10$rJEYpTVCQTYMFfCjWr1Wsus.Kq5o3eZ8kDNvBsEqth7OYX1zGIPRu",
+    "createdAt": "2021-03-05T09:13:50.511Z",
+    "updatedAt": "2021-03-05T09:13:50.511Z",
+    "customerId": 4,
     "__v": 0
   }
 }
