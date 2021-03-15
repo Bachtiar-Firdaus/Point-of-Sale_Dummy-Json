@@ -3,7 +3,7 @@
     {
       "value": "",
       "msg": "Invalid value",
-      "param": "nama_lengkap",
+      "param": "fullName",
       "location": "body"
     },
     {
