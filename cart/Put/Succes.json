@@ -2,129 +2,179 @@
   "message": "succes",
   "data": [
     {
-      "idVariantOption": "6034a4ab7e4a080022dfcabd",
-      "categoryName": "StealSeries",
-      "product": "6034a51d7e4a080022dfcabf",
-      "price": 120000,
-      "name": "StealSeries",
-      "user": "6034a2dc7e4a080022dfcab7",
-      "qty": 3,
+      "idVariantOption": "6041e50fe558050818504f32",
+      "categoryName": "Makanan Kering",
+      "product": "6041e5c4e558050818504f35",
+      "price": 28000,
+      "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+      "name": "Rempeyek Peyek Nyai Kacang",
+      "user": "6041df708b0b1631dc4d6920",
+      "qty": 1,
       "discount": {
-        "name": "Discount Valentine",
+        "name": "Discount Ulang Tahun",
         "type": "%",
-        "value": 20
+        "value": 30
       },
       "variant": {
-        "name": "Panjang",
-        "option": "Model",
+        "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
+        "option": "1 KG",
         "stock": 10
       },
       "$set": {
-        "updatedAt": "2021-02-26T07:54:54.094Z",
+        "updatedAt": "2021-03-15T13:22:55.294Z",
         "variant": {
-          "name": "Panjang",
-          "option": "Model",
+          "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
+          "option": "1 KG",
           "stock": 10
         },
         "discount": {
-          "name": "Discount Valentine",
+          "name": "Discount Ulang Tahun",
           "type": "%",
-          "value": 20
-        },
-        "qty": 3,
-        "user": "6034a2dc7e4a080022dfcab7",
-        "name": "StealSeries",
-        "price": 120000,
-        "product": ["6034a51d7e4a080022dfcabf"],
-        "categoryName": "StealSeries",
-        "idVariantOption": "6034a4ab7e4a080022dfcabd"
-      },
-      "$setOnInsert": {
-        "createdAt": "2021-02-26T07:54:54.094Z"
-      }
-    },
-    {
-      "idVariantOption": "6034a4ab7e4a080022dfcabe",
-      "categoryName": "StealSeries",
-      "product": "6034a51d7e4a080022dfcabf",
-      "price": 120000,
-      "name": "StealSeries",
-      "user": "6034a2dc7e4a080022dfcab7",
-      "qty": 3,
-      "discount": {
-        "name": "Discount Valentine",
-        "type": "%",
-        "value": 20
-      },
-      "variant": {
-        "name": "Pendek",
-        "option": "Model",
-        "stock": 5
-      },
-      "$set": {
-        "updatedAt": "2021-02-26T07:54:54.094Z",
-        "variant": {
-          "name": "Pendek",
-          "option": "Model",
-          "stock": 5
-        },
-        "discount": {
-          "name": "Discount Valentine",
-          "type": "%",
-          "value": 20
-        },
-        "qty": 3,
-        "user": "6034a2dc7e4a080022dfcab7",
-        "name": "StealSeries",
-        "price": 120000,
-        "product": ["6034a51d7e4a080022dfcabf"],
-        "categoryName": "StealSeries",
-        "idVariantOption": "6034a4ab7e4a080022dfcabe"
-      },
-      "$setOnInsert": {
-        "createdAt": "2021-02-26T07:54:54.094Z"
-      }
-    },
-    {
-      "idVariantOption": "600b352159630e1f54ee8a90",
-      "categoryName": "Singlet",
-      "product": "6034a5de7e4a080022dfcac1",
-      "price": 120000,
-      "name": "Baju Kemeja",
-      "user": "6034a2dc7e4a080022dfcab7",
-      "qty": 1,
-      "discount": {
-        "name": "Discount Valentine",
-        "type": "%",
-        "value": 20
-      },
-      "variant": {
-        "name": "Size",
-        "option": "XL",
-        "stock": 1
-      },
-      "$set": {
-        "updatedAt": "2021-02-26T07:54:54.094Z",
-        "variant": {
-          "name": "Size",
-          "option": "XL",
-          "stock": 1
-        },
-        "discount": {
-          "name": "Discount Valentine",
-          "type": "%",
-          "value": 20
+          "value": 30
         },
         "qty": 1,
-        "user": "6034a2dc7e4a080022dfcab7",
-        "name": "Baju Kemeja",
-        "price": 120000,
-        "product": ["6034a5de7e4a080022dfcac1"],
-        "categoryName": "Singlet",
-        "idVariantOption": "600b352159630e1f54ee8a90"
+        "user": "6041df708b0b1631dc4d6920",
+        "name": "Rempeyek Peyek Nyai Kacang",
+        "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+        "price": 28000,
+        "product": "6041e5c4e558050818504f35",
+        "categoryName": "Makanan Kering",
+        "idVariantOption": "6041e50fe558050818504f32"
       },
       "$setOnInsert": {
-        "createdAt": "2021-02-26T07:54:54.094Z"
+        "createdAt": "2021-03-15T13:22:55.294Z"
+      }
+    },
+    {
+      "idVariantOption": "6041e50fe558050818504f33",
+      "categoryName": "Makanan Kering",
+      "product": "6041e5c4e558050818504f35",
+      "price": 28000,
+      "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+      "name": "Rempeyek Peyek Nyai Kacang",
+      "user": "6041df708b0b1631dc4d6920",
+      "qty": 1,
+      "discount": {
+        "name": "Discount Ulang Tahun",
+        "type": "%",
+        "value": 30
+      },
+      "variant": {
+        "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
+        "option": "2 KG",
+        "stock": 10
+      },
+      "$set": {
+        "updatedAt": "2021-03-15T13:22:55.294Z",
+        "variant": {
+          "name": "Quantitas - Rempeyek Peyek Nyai Kacang",
+          "option": "2 KG",
+          "stock": 10
+        },
+        "discount": {
+          "name": "Discount Ulang Tahun",
+          "type": "%",
+          "value": 30
+        },
+        "qty": 1,
+        "user": "6041df708b0b1631dc4d6920",
+        "name": "Rempeyek Peyek Nyai Kacang",
+        "imageUrl": "5e3a1f06f13bd8ae1a8dffad1152bf03.jpg",
+        "price": 28000,
+        "product": "6041e5c4e558050818504f35",
+        "categoryName": "Makanan Kering",
+        "idVariantOption": "6041e50fe558050818504f33"
+      },
+      "$setOnInsert": {
+        "createdAt": "2021-03-15T13:22:55.294Z"
+      }
+    },
+    {
+      "idVariantOption": "6041e50fe558050818504f36",
+      "categoryName": "Makanan Kering",
+      "product": "6041e728e558050818504f36",
+      "price": 36000,
+      "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+      "name": "Roasted Mix Sunflower Pumpkin Seeds",
+      "user": "6041df708b0b1631dc4d6920",
+      "qty": 1,
+      "discount": {
+        "name": "Discount Ulang Tahun",
+        "type": "%",
+        "value": 30
+      },
+      "variant": {
+        "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+        "option": "2 KG",
+        "stock": 10
+      },
+      "$set": {
+        "updatedAt": "2021-03-15T13:22:55.294Z",
+        "variant": {
+          "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+          "option": "2 KG",
+          "stock": 10
+        },
+        "discount": {
+          "name": "Discount Ulang Tahun",
+          "type": "%",
+          "value": 30
+        },
+        "qty": 1,
+        "user": "6041df708b0b1631dc4d6920",
+        "name": "Roasted Mix Sunflower Pumpkin Seeds",
+        "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+        "price": 36000,
+        "product": "6041e728e558050818504f36",
+        "categoryName": "Makanan Kering",
+        "idVariantOption": "6041e50fe558050818504f36"
+      },
+      "$setOnInsert": {
+        "createdAt": "2021-03-15T13:22:55.294Z"
+      }
+    },
+    {
+      "idVariantOption": "6041e50fe558050818504f35",
+      "categoryName": "Makanan Kering",
+      "product": "6041e728e558050818504f36",
+      "price": 36000,
+      "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+      "name": "Roasted Mix Sunflower Pumpkin Seeds",
+      "user": "6041df708b0b1631dc4d6920",
+      "qty": 1,
+      "discount": {
+        "name": "Discount Ulang Tahun",
+        "type": "%",
+        "value": 30
+      },
+      "variant": {
+        "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+        "option": "1 KG",
+        "stock": 10
+      },
+      "$set": {
+        "updatedAt": "2021-03-15T13:22:55.294Z",
+        "variant": {
+          "name": "Quantitas - Roasted Mix Sunflower Pumpkin Seeds",
+          "option": "1 KG",
+          "stock": 10
+        },
+        "discount": {
+          "name": "Discount Ulang Tahun",
+          "type": "%",
+          "value": 30
+        },
+        "qty": 1,
+        "user": "6041df708b0b1631dc4d6920",
+        "name": "Roasted Mix Sunflower Pumpkin Seeds",
+        "imageUrl": "340c9811a26181d76a7a516d3aeaf815.jpg",
+        "price": 36000,
+        "product": "6041e728e558050818504f36",
+        "categoryName": "Makanan Kering",
+        "idVariantOption": "6041e50fe558050818504f35"
+      },
+      "$setOnInsert": {
+        "createdAt": "2021-03-15T13:22:55.294Z"
       }
     }
   ]
