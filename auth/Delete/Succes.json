@@ -3,11 +3,13 @@
   "data": {
     "role": "user",
     "token": [],
-    "_id": "6006abfddfc6831ae04abbbd",
-    "full_name": "Bachtiar Firdaus",
-    "email": "rluciver@aol.com",
-    "password": "$2b$10$RBkLNvFIfy.nyxw3gC2zFecHlbJE9U5eZghXUslKKC/kc45qDtsWi",
-    "customer_id": 3,
+    "_id": "604f09c24156ac0022c0a2b7",
+    "fullName": "Elfin Sanjaya",
+    "email": "id.elfin.sanjaya@gmail.com",
+    "password": "$2b$10$DOzAoZX7R2/gzTMuGJxc2OwE4axIntA2WuIH/Man1akJ/SNvjMgly",
+    "createdAt": "2021-03-15T07:16:18.717Z",
+    "updatedAt": "2021-03-15T07:26:10.619Z",
+    "customerId": 5,
     "__v": 0
   }
 }
