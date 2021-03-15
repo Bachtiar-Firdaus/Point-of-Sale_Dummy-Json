@@ -2,14 +2,14 @@
   "message": "succes",
   "data": {
     "type": "%",
-    "value": 20,
+    "value": 30,
     "status": "y",
-    "product": [],
-    "_id": "602bc46f35e6db2740661647",
-    "name": "Discount Valentine",
+    "product": ["6041e5c4e558050818504f35", "6041e728e558050818504f36"],
+    "_id": "604c7165f178603884324d69",
+    "name": "Discount Ulang Tahun",
     "date": "2021-01-30T17:00:00.000Z",
-    "createdAt": "2021-02-16T13:11:11.449Z",
-    "updatedAt": "2021-02-16T13:11:11.449Z",
+    "createdAt": "2021-03-13T08:01:41.866Z",
+    "updatedAt": "2021-03-14T08:56:47.634Z",
     "__v": 0
   }
 }
